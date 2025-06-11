@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,57 +8,21 @@ redirect_from:
 ---
 
 {% include base_path %}
+I coordinate a theoretical-experimental laboratory with a focus on engineering novel protein-based vaccines, therapeutics and diagnostic markers for viral infectious diseases. Synthetic proteins are developed through the use computational protein design techniques and subsequently produced in laboratory. These synthetic proteins are used to capture antibodies from patient sera, to elicit antibody production in vitro, to validate vaccine efficacy in vivo as well as to neutralize viral infections. I have acted as the local coordinator of the ZIKAlliance consortium, an initiative involving 52 institutions in Europe and Latin-America, funded by European Union agencies. I am member of the Fiocruz Genomic Network and scientific coordinator of the Protein Technology/Proteomics Platform Facility of the Aggeu Magalhães Institute at the Oswaldo Cruz Foundation. I also act as scientific reviewer for 11 research agencies in 6 countries, scientific consultant for EvaMobs Horizon Europe, and have been invited for about 100 conference talks in more than 12 countries. I have also approved a number of grants from Brazilian, American and European agencies, and supervised 40+ postdocs and students at all levels.
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Chemistry, 1999 - Federal University of Pernambuco / University of California, San Diego
+* B.S. in Biological Sciences, 1994 - Federal University of Pernambuco, 1994
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Senior Research Scientist
+  * Aggeu Magalhaes Institute, Oswaldo Cruz Foundation
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Professor of Chemistry
+  * Federal University of Pernambuco
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Senior Research Scientist
+  * Pacific Northwest National Laboratory
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
