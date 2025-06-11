@@ -10,7 +10,7 @@
 main:
     
   - title: "Members"
-    url: /Members/
+    url: /members/
            
   - title: "Publications"
     url: /publications/  
@@ -20,6 +20,3 @@ main:
 
  - title: "Software"
     url: /software/
-    
-  - title: "Financing Agencies"
-    url: /agencies/
