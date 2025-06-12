@@ -19,7 +19,7 @@ description              : &description "Senior Research Scientist"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Lins_fotoiam.png"
+  avatar           : "Lins_fotoiam.jpg"
   name             : "Roberto Lins"
   pronouns         : # example: "he/him"  
   bio              : "Senior Research Scienstist, Oswaldo Cruz Foundation"
