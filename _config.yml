@@ -19,7 +19,7 @@ description              : &description "Senior Research Scientist"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/assets/images/Lins_fotoiam.jpg"
+  avatar           : "Lins_fotoiam.jpg"
   name             : "Roberto Lins"
   pronouns         : # example: "he/him"  
   bio              : "Senior Research Scienstist, Oswaldo Cruz Foundation"
@@ -31,11 +31,6 @@ author:
   # Academic websites
   googlescholar    : "https://scholar.google.com/citations?user=xTaiAmcAAAAJ&hl=en"
   orcid            : "https://orcid.org/0000-0002-3983-8025"
-
-  # Repositories and software development
-  Rotional Profiler: "rotprof.lncc.org"
-  NWChem           : "https://www.nwchem-sw.org/"
-  PBEE             : "https://github.com/chavesejf/PBEE"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
