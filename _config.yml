@@ -14,6 +14,7 @@ title_separator          : "-"
 name                     : &name "Roberto Lins"
 description              : &description "Senior Research Scientist"
 remote_theme: "mmistakes/minimal-mistakes"
+data_dir: _data
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -79,6 +80,7 @@ atom_feed:
   hide                   : false     # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
 
+footer_links: []
 
 # SEO Related
 google_site_verification :
