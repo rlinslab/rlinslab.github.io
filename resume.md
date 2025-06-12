@@ -12,6 +12,9 @@ I coordinate a theoretical-experimental laboratory with a focus on engineering n
 
 Education
 ======
+* Postdoctoral Fellow, 2003-2005 - EPFL (Swiss Federal Technology Institute of Lausanne)
+* Postdotoral Fellow, 2000-2003 - ETH Zürich (Swiss Federal Technology Institute of Zurich)
+* Postdotoral Fellow, 1999-2000 - University of Houston
 * Ph.D in Chemistry, 1999 - Federal University of Pernambuco / University of California, San Diego
 * B.S. in Biological Sciences, 1994 - Federal University of Pernambuco, 1994
 
