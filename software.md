@@ -20,11 +20,12 @@ A machine-learning based package to calculate the absolute binding free energy o
 
 A software to calculate classical dihedral potentials from quantum mechanical profiles
 
-NWChem
+[NWChem](https://www.nwchem-sw.org/)
 ======
-[A high performance computational chemistry package](https://www.nwchem-sw.org/)
+A high performance complete computational chemistry package
 
 [SuAVE](https://github.com/SuAVE-Software/source_v2.0)
+======
 A software was developed to calculate the effect of curvature of chemical interfaces
 
 
