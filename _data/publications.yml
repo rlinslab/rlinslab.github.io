@@ -1,0 +1,1550 @@
+- title: Design of nanobody targeting SARS-CoV-2 spike glycoprotein using CDR-grafting
+    assisted by molecular simulation and machine learning
+  authors:
+  - Ferraz, Matheus V.F.
+  - Adan, W. Camilla S.
+  - Lima, Tayná E.
+  - Santos, Adriele J.C.
+  - de Paula, Sérgio O.
+  - Dhalia, Rafael
+  - Wallau, Gabriel L.
+  - Wade, Rebecca C.
+  - Viana, Isabelle F.T.
+  - Lins, Roberto D.
+  journal: PLOS Computational Biology
+  year: 2025
+  doi: 10.1371/journal.pcbi.1012921
+  url: http://dx.doi.org/10.1371/journal.pcbi.1012921
+- title: Estimating Absolute Protein–Protein Binding Free Energies by a Super Learner
+    Model
+  authors:
+  - Chaves, Elton J. F.
+  - Sartori, João
+  - Santos, Whendel M.
+  - Cruz, Carlos H. B.
+  - Mhrous, Emmanuel N.
+  - Nacimento-Filho, Manassés F.
+  - Ferraz, Matheus V. F.
+  - Lins, Roberto D.
+  journal: Journal of Chemical Information and Modeling
+  year: 2025
+  doi: 10.1021/acs.jcim.4c01641
+  url: http://dx.doi.org/10.1021/acs.jcim.4c01641
+- title: 'Structure‐based computational design of antibody mimetics: challenges and
+    perspectives'
+  authors:
+  - Chaves, Elton J. F.
+  - Coêlho, Danilo F.
+  - Cruz, Carlos H. B.
+  - Moreira, Emerson G.
+  - Simões, Júlio C. M.
+  - Nascimento‐Filho, Manassés J.
+  - Lins, Roberto D.
+  journal: FEBS Open Bio
+  year: 2024
+  doi: 10.1002/2211-5463.13855
+  url: http://dx.doi.org/10.1002/2211-5463.13855
+- title: Design of nanobody targeting SARS-CoV-2 spike glycoprotein using CDR-grafting
+    assisted by molecular simulation and machine learning
+  authors:
+  - Ferraz, Matheus V. F.
+  - Adan, W. Camilla S.
+  - Lima, Tayná E.
+  - Santos, Adriele J. C.
+  - de Paula, Sérgio O.
+  - Dhalia, Rafael
+  - Wallau, Gabriel L.
+  - Wade, Rebecca C.
+  - Viana, Isabelle F. T.
+  - Lins, Roberto D.
+  journal: null
+  year: 2024
+  doi: 10.1101/2024.09.30.615772
+  url: http://dx.doi.org/10.1101/2024.09.30.615772
+- title: Evolutionary deletions within the SARS-CoV-2 genome as signature trends for
+    virus fitness and adaptation
+  authors:
+  - Jeronimo, Pedro Miguel Carneiro
+  - Aksenen, Cleber Furtado
+  - Duarte, Igor Oliveira
+  - Lins, Roberto D.
+  - Miyajima, Fabio
+  journal: Journal of Virology
+  year: 2024
+  doi: 10.1128/jvi.01404-23
+  url: http://dx.doi.org/10.1128/jvi.01404-23
+- title: Enhanced immunogenicity and protective efficacy in mice following a Zika
+    DNA vaccine designed by modulation of membrane-anchoring regions and its association
+    to adjuvants
+  authors:
+  - Teixeira, Franciane Mouradian Emidio
+  - Oliveira, Luana de Mendonça
+  - Branco, Anna Cláudia Calvielli Castelo
+  - Alberca, Ricardo Wesley
+  - Sousa, Emanuella Sarmento Alho de
+  - Leite, Bruno Henrique de Sousa
+  - Adan, Wenny Camilla dos Santos
+  - Duarte, Alberto José da Silva
+  - Lins, Roberto Dias
+  - Sato, Maria Notomi
+  - Viana, Isabelle Freire Tabosa
+  journal: Frontiers in Immunology
+  year: 2024
+  doi: 10.3389/fimmu.2024.1307546
+  url: http://dx.doi.org/10.3389/fimmu.2024.1307546
+- title: Determination of prognostic markers for COVID-19 disease severity using routine
+    blood tests and machine learning
+  authors:
+  - LIMA, TAYNÁ E.
+  - FERRAZ, MATHEUS V.F.
+  - BRITO, CARLOS A.A.
+  - XIMENES, PAMELLA B.
+  - MARIZ, CAROLLINE A.
+  - BRAGA, CYNTHIA
+  - WALLAU, GABRIEL L.
+  - VIANA, ISABELLE F.T.
+  - LINS, ROBERTO D.
+  journal: Anais da Academia Brasileira de Ciências
+  year: 2024
+  doi: 10.1590/0001-376520242023089
+  url: http://dx.doi.org/10.1590/0001-376520242023089
+- title: Prediction of Absolute Protein-Protein Binding Free Energy by a Super Learner
+    Model
+  authors:
+  - Chaves, Elton
+  - Mhrous, Emmanuel
+  - Nascimento-Filho, Manasses
+  - Cruz, Carlos
+  - Ferraz, Matheus
+  - Lins, Roberto
+  journal: null
+  year: 2023
+  doi: 10.26434/chemrxiv-2023-zq1nj
+  url: http://dx.doi.org/10.26434/chemrxiv-2023-zq1nj
+- title: 'Inhibition of 3-Hydroxykynurenine Transaminase from Aedes aegypti and Anopheles
+    gambiae: A Mosquito-Specific Target to Combat the Transmission of Arboviruses'
+  authors:
+  - Maciel, Larissa G.
+  - Ferraz, Matheus V. F.
+  - Oliveira, Andrew A.
+  - Lins, Roberto D.
+  - dos Anjos, Janaína V.
+  - Guido, Rafael V. C.
+  - Soares, Thereza A.
+  journal: ACS Bio &amp; Med Chem Au
+  year: 2023
+  doi: 10.1021/acsbiomedchemau.2c00080
+  url: http://dx.doi.org/10.1021/acsbiomedchemau.2c00080
+- title: Artificial Neural Network to Predict Structure-based Protein-protein Free
+    Energy of Binding from Rosetta calculated Properties
+  authors:
+  - Matheus Ferraz
+  - Jos{\'{e}} Soares
+  - Roberto Lins
+  - Erico Teixeira
+  journal: Physical Chemistry Chemical Physics
+  year: 2023
+  doi: 10.1039/d2cp05644e
+  url: https://doi.org/10.1039%2Fd2cp05644e
+- title: In vitro neutralisation of Zika virus by an engineered protein targeting
+    the viral envelope fusion loop
+  authors:
+  - Isabelle FT Viana
+  - Carlos HB da Cruz
+  - Diogo Athayde
+  - W. Camila Adan
+  - Licya Samara Silva Xavier
+  - Margarida Archer Fraz{\~{a}}o
+  - Roberto Lins
+  journal: Molecular Systems Design {\&}amp$\mathsemicolon$ Engineering
+  year: 2023
+  doi: 10.1039/d2me00170e
+  url: https://doi.org/10.1039%2Fd2me00170e
+- title: LAMP-1 Chimeric to HIV-1 p55Gag in the Immunization of Neonate Mice Induces
+    an Early Germinal Center Formation and AID Expression
+  authors:
+  - Teixeira, Franciane Mouradian Emidio
+  - Oliveira, Luana de Mendonça
+  - Pietrobon, Anna Julia
+  - Salles, Érika Machado de
+  - D’Império Lima, Maria Regina
+  - Viana, Isabelle Freire Tabosa
+  - Lins, Roberto Dias
+  - Rigato, Paula Ordonhez
+  - Marques, Ernesto Torres de Azevedo
+  - da Silva Duarte, Alberto José
+  - Sato, Maria Notomi
+  journal: Vaccines
+  year: 2022
+  doi: 10.3390/vaccines10081246
+  url: http://dx.doi.org/10.3390/vaccines10081246
+- title: 'GM}2/{GM}3 controls the organizational status of {CD}82/Met microdomains:
+    further studies in {GM}2/{GM}3 complexation'
+  authors:
+  - Ronan C. M. Santos
+  - Daniela M. S. Lucena
+  - Hector F. B. R. Loponte
+  - Frederico Alisson-Silva
+  - Wagner B. Dias
+  - Roberto D. Lins
+  - Adriane R. Todeschini
+  journal: Glycoconjugate Journal
+  year: 2022
+  doi: 10.1007/s10719-022-10061-z
+  url: https://doi.org/10.1007%2Fs10719-022-10061-z
+- title: Identification of potential $\less$i$\greater$Staphylococcus aureus$\less$/i$\greater$
+    dihydrofolate reductase inhibitors using {QSAR}, molecular docking, dynamics simulations
+    and free energy calculation
+  authors:
+  - Isaac de Araujo Matos
+  - Ana Carolina Goes Pinto
+  - Matheus Vitor Ferreira Ferraz
+  - Wenny Camilla Santos Adan
+  - Ricardo Pereira Rodrigues
+  - Juliane Xavier dos Santos
+  - Rodrigo Rezende Kitagawa
+  - Roberto Dias Lins
+  - Tiago Branquinho Oliveira
+  - Nivan Bezerra da Costa Junior
+  journal: Journal of Biomolecular Structure and Dynamics
+  year: 2022
+  doi: 10.1080/07391102.2022.2057361
+  url: https://doi.org/10.1080%2F07391102.2022.2057361
+- title: Spread of Gamma (P.1) Sub-Lineages Carrying Spike Mutations Close to the
+    Furin Cleavage Site and Deletions in the N-Terminal Domain Drives Ongoing Transmission
+    of {SARS}-{CoV}-2 in Amazonas, Brazil
+  authors:
+  - Felipe Gomes Naveca
+  - Valdinete Nascimento
+  - Victor Souza
+  - Andr{\'{e}} de Lima Corado
+  - Fernanda Nascimento
+  - George Silva
+  - Matilde Contreras Mej{\'{\i}}a
+  - Maria J{\'{u}}lia Brand{\~{a}}o
+  - '{\''{A}}gatha Costa'
+  - D{\'{e}}bora Duarte
+  - Karina Pessoa
+  - Michele Jesus
+  - Luciana Gon{\c{c}}alves
+  - Cristiano Fernandes
+  - Tirza Mattos
+  - Ligia Abdalla
+  - Jo{\~{a}}o Hugo Santos
+  - Alex Martins
+  - Fabiola Mendon{\c{c}}a Chui
+  - Fernando Fonseca Val
+  - Gisely Cardoso de Melo
+  - Mariana Sim{\~{a}}o Xavier
+  - Vanderson de Souza Sampaio
+  - Maria Paula Mour{\~{a}}o
+  - Marcus Vin{\'{\i}}cius Lacerda
+  - '{\''{E}}rika Lopes Rocha Batista'
+  - Alessandro Leonardo {\'{A}}lvares Magalh{\~{a}}es
+  - Nath{\^{a}}nia D{\'{a}}billa
+  - Lucas Carlos Gomes Pereira
+  - Fernando Vinhal
+  - Fabio Miyajima
+  - Fernando Braga Stehling Dias
+  - Eduardo Ruback dos Santos
+  - Danilo Co{\^{e}}lho
+  - Matheus Ferraz
+  - Roberto Lins
+  - Gabriel Luz Wallau
+  - Edson Delatorre
+  - Tiago Gräf
+  - Marilda Mendon{\c{c}}a Siqueira
+  - Paola Cristina Resende
+  - Gonzalo Bello
+  journal: Microbiology Spectrum
+  year: 2022
+  doi: 10.1128/spectrum.02366-21
+  url: https://doi.org/10.1128%2Fspectrum.02366-21
+- title: Are Zika virus cross-reactive antibodies against aquaporin-4 associated to
+    Neuromyelitis Optica Spectrum Disorder?
+  authors:
+  - Jo{\~{a}}o P.M. Brainer-Lima
+  - Bruno H.S. Leite
+  - Catarina M.C.S. de Ara{\'{u}}jo
+  - Rafael Dhalia
+  - Danilo F. C{\^{o}}elho
+  - Franciane M.E. Teixeira
+  - Anna Cl{\'{a}}udia C.C. Branco
+  - Maria N. Sato
+  - Ernesto T.A. Marques
+  - Roberto D. Lins
+  - Isabelle F.T. Viana
+  journal: Journal of Neuroimmunology
+  year: 2021
+  doi: 10.1016/j.jneuroim.2021.577697
+  url: https://doi.org/10.1016%2Fj.jneuroim.2021.577697
+- title: The ongoing evolution of variants of concern and interest of {SARS}-{CoV}-2
+    in Brazil revealed by convergent indels in the amino (N)-terminal domain of the
+    spike protein
+  authors:
+  - Paola Cristina Resende
+  - Felipe G Naveca
+  - Roberto D Lins
+  - Filipe Zimmer Dezordi
+  - Matheus V. F Ferraz
+  - Emerson G Moreira
+  - Danilo F Co{\^{e}}lho
+  - Fernando Couto Motta
+  - Anna Carolina Dias Paix{\~{a}}o
+  - Luciana Appolinario
+  - Renata Serrano Lopes
+  - Ana Carolina da Fonseca Mendon{\c{c}}a
+  - Alice Sampaio Barreto da Rocha
+  - Valdinete Nascimento
+  - Victor Souza
+  - George Silva
+  - Fernanda Nascimento
+  - Lidio Gon{\c{c}}alves Lima Neto
+  - Fabiano Vieira da Silva
+  - Irina Riediger
+  - Maria do Carmo Debur
+  - Anderson Brandao Leite
+  - Tirza Mattos
+  - Cristiano Fernandes da Costa
+  - Felicidade Mota Pereira
+  - Cliomar Alves dos Santos
+  - Darcita Buerger Rovaris
+  - Sandra Bianchini Fernandes
+  - Adriano Abbud
+  - Claudio Sacchi
+  - Ricardo Khouri
+  - Andr{\'{e}} Felipe Leal Bernardes
+  - Edson Delatorre
+  - Tiago Gräf
+  - Marilda Mendon{\c{c}}a Siqueira
+  - Gonzalo Bello
+  - Gabriel L Wallau
+  journal: Virus Evolution
+  year: 2021
+  doi: 10.1093/ve/veab069
+  url: https://doi.org/10.1093%2Fve%2Fveab069
+- title: 'Repositioning Lopinavir, an HIV Protease Inhibitor, as a Promising Antifungal
+    Drug: Lessons Learned from Candida albicans—In Silico, In Vitro and In Vivo Approaches'
+  authors:
+  - Santos, André L. S.
+  - Braga-Silva, Lys A.
+  - Gonçalves, Diego S.
+  - Ramos, Lívia S.
+  - Oliveira, Simone S. C.
+  - Souza, Lucieri O. P.
+  - Oliveira, Vanessa S.
+  - Lins, Roberto D.
+  - Pinto, Marcia R.
+  - Muñoz, Julian E.
+  - Taborda, Carlos P.
+  - Branquinha, Marta H.
+  journal: Journal of Fungi
+  year: 2021
+  doi: 10.3390/jof7060424
+  url: http://dx.doi.org/10.3390/jof7060424
+- title: SARS-CoV-2 VOCs Immune Evasion from Previously Elicited Neutralizing Antibodies
+    Is Mainly Driven by Lower Cross-Reactivity Due to Spike RBD Electrostatic Surface
+    Changes
+  authors:
+  - Ferraz, Matheus
+  - MOREIRA, EMERSON
+  - Coêlho, Danilo F.
+  - Wallau, Gabriel
+  - Lins, Roberto
+  journal: null
+  year: 2021
+  doi: 10.26434/chemrxiv.14343743.v1
+  url: http://dx.doi.org/10.26434/chemrxiv.14343743.v1
+- title: SARS-CoV-2 VOCs Immune Evasion from Previously Elicited Neutralizing Antibodies
+    Is Mainly Driven by Lower Cross-Reactivity Due to Spike RBD Electrostatic Surface
+    Changes
+  authors:
+  - Ferraz, Matheus
+  - MOREIRA, EMERSON
+  - Coêlho, Danilo F.
+  - Wallau, Gabriel
+  - Lins, Roberto
+  journal: null
+  year: 2021
+  doi: 10.26434/chemrxiv.14343743.v1
+  url: http://dx.doi.org/10.26434/chemrxiv.14343743.v1
+- title: The ongoing evolution of variants of concern and interest of {SARS}-{CoV}-2
+    in Brazil revealed by convergent indels in the amino (N)-terminal domain of the
+    Spike protein
+  authors:
+  - Paola Cristina Resende
+  - Felipe G Naveca
+  - Roberto D. Lins
+  - Filipe Zimmer Dezordi
+  - Matheus V. F. Ferraz
+  - Emerson G. Moreira
+  - Danilo F. Co{\^{e}}lho
+  - Fernando Couto Motta
+  - Anna Carolina Dias Paix{\~{a}}o
+  - Luciana Appolinario
+  - Renata Serrano Lopes
+  - Ana Carolina da Fonseca Mendon{\c{c}}a
+  - Alice Sampaio Barreto da Rocha
+  - Valdinete Nascimento
+  - Victor Souza
+  - George Silva
+  - Fernanda Nascimento
+  - Lidio Gon{\c{c}}alves Lima Neto
+  - Fabiano Vieira da Silva
+  - Irina Riediger
+  - Maria do Carmo Debur
+  - Anderson Brandao Leite
+  - Tirza Mattos
+  - Cristiano Fernandes da Costa
+  - Felicidade Mota Pereira
+  - Cliomar Alves dos Santos
+  - Darcita Buerger Rovaris
+  - Sandra Bianchini Fernandes
+  - Adriano Abbud
+  - Claudio Sacchi
+  - Ricardo Khouri
+  - Andr{\'{e}} Felipe Leal Bernardes
+  - Edson Delatorre
+  - Tiago Gräf
+  - Marilda Mendon{\c{c}}a Siqueira
+  - Gonzalo Bello
+  - Gabriel L Wallau
+  journal: null
+  year: 2021
+  doi: 10.1101/2021.03.19.21253946
+  url: https://doi.org/10.1101%2F2021.03.19.21253946
+- title: Identification of a Zika {NS}2B Epitope for Which Absence of {IgG} Response
+    Is Associated with Severe Neurological Symptoms and the Design of a Biomarker
+    Capable of Discriminatory Diagnostics Between Severe and Non4 Severe Clinical
+    Phenotypes
+  authors:
+  - Felix Loeffler
+  - Isabelle F. T. Viana
+  - Nico Fischer
+  - Danilo F. Coe{\^}lho
+  - Carolina Santos
+  - Antonio Purificacao Jr
+  - Catarina Araujo
+  - Bruno Leite
+  - Ricardo Dur{\~{a}}es-Carvalho
+  - Thereza Magalhaes
+  - Clarice Morais
+  - Marli Ten{\'{o}}rio Cordeiro
+  - Roberto Lins
+  - Ernesto T.A. Marques
+  - Thomas Jaenisch
+  journal: null
+  year: 2021
+  doi: 10.26434/chemrxiv.14170439.v1
+  url: https://doi.org/10.26434%2Fchemrxiv.14170439.v1
+- title: Characterizing Binding Kinetics and Thermodynamics of Computer-Designed Nanobodies
+    Targeting {SARS}-{CoV}-2 {RBD
+  authors:
+  - Matheus Ferraz
+  - Roberto Lins
+  journal: Biophysical Journal
+  year: 2021
+  doi: 10.1016/j.bpj.2020.11.393
+  url: https://doi.org/10.1016%2Fj.bpj.2020.11.393
+- title: Identification of a Zika {NS}2B epitope as a biomarker for severe clinical
+    phenotypes
+  authors:
+  - Felix F. Loeffler
+  - Isabelle F. T. Viana
+  - Nico Fischer
+  - Danilo F. Co{\^{e}}lho
+  - Carolina S. Silva
+  - Ant{\^{o}}nio F. Purifica{\c{c}}{\~{a}}o
+  - Catarina M. C. S. Ara{\'{u}}jo
+  - Bruno H. S. Leite
+  - Ricardo Dur{\~{a}}es-Carvalho
+  - Tereza Magalh{\~{a}}es
+  - Clarice N. L. Morais
+  - Marli T. Cordeiro
+  - Roberto D. Lins
+  - Ernesto T. A. Marques
+  - Thomas Jaenisch
+  journal: '{RSC} Medicinal Chemistry'
+  year: 2021
+  doi: 10.1039/d1md00124h
+  url: https://doi.org/10.1039%2Fd1md00124h
+- title: Immune evasion of {SARS}-{CoV}-2 variants of concern is driven by low affinity
+    to neutralizing antibodies
+  authors:
+  - Matheus V. F. Ferraz
+  - Emerson G. Moreira
+  - Danilo F. Co{\^{e}}lho
+  - Gabriel L. Wallau
+  - Roberto D. Lins
+  journal: Chemical Communications
+  year: 2021
+  doi: 10.1039/d1cc01747k
+  url: https://doi.org/10.1039%2Fd1cc01747k
+- title: SARS-CoV-2 recombinant proteins stimulate distinct cellular and humoral immune
+    response profiles in samples from COVID-19 convalescent patients
+  authors:
+  - Silva, Laís Teodoro da
+  - Ortega, Marina Mazzilli
+  - Tiyo, Bruna Tiaki
+  - Viana, Isabelle Freire Tabosa
+  - Lima, Tayná Evily de
+  - Tozetto-Mendoza, Tania Regina
+  - Oliveira, Luanda Mara da Silva
+  - Teixeira, Franciane Mouradian Emidio
+  - Lins, Roberto Dias
+  - Almeida, Alexandre de
+  - Mendes-Correa, Maria Cassia
+  - da Silva Duarte, Alberto Jose
+  - Oshiro, Telma Miyuki
+  journal: Clinics
+  year: 2021
+  doi: 10.6061/clinics/2021/e3548
+  url: http://dx.doi.org/10.6061/clinics/2021/e3548
+- title: 'Rotational Profiler: A Fast, Automated, and Interactive Server to Derive
+    Torsional Dihedral Potentials for Classical Molecular Simulations'
+  authors:
+  - Victor H. Rusu
+  - Denys E. S. Santos
+  - Marcelo D. Poleto
+  - Marcelo M. Galheigo
+  - Ant{\^{o}}nio T. A. Gomes
+  - Hugo Verli
+  - Thereza A. Soares
+  - Roberto D. Lins
+  journal: Journal of Chemical Information and Modeling
+  year: 2020
+  doi: 10.1021/acs.jcim.0c01168
+  url: https://doi.org/10.1021%2Facs.jcim.0c01168
+- title: Differential Frequencies of {HLA}-{DRB}1, {DQA}1, and {DQB}1 Alleles and
+    Haplotypes Are Observed in the Arbovirus-Related Neurological Syndromes
+  authors:
+  - Paulin Sonon
+  - Maria L{\'{u}}cia Brito Ferreira
+  - Renata Santos Almeida
+  - Neifi Hassan Saloum Deghaide
+  - Glauco Henrique Willcox
+  - Elizabeth Lima Guimar{\~{a}}es
+  - Ant{\^{o}}nio Fernando da Purifica{\c{c}}{\~{a}}o J{\'{u}}nior
+  - Marli Ten{\'{o}}rio Cordeiro
+  - Carlos Alexandre Antunes de Brito
+  - Maria de F{\'{a}}tima Milit{\~{a}}o de Albuquerque
+  - Roberto D Lins
+  - Eduardo A Donadi
+  - Norma Lucena-Silva
+  journal: The Journal of Infectious Diseases
+  year: 2020
+  doi: 10.1093/infdis/jiaa764
+  url: https://doi.org/10.1093%2Finfdis%2Fjiaa764
+- title: Unveiling the Influence of Nanobodies Dynamic Properties on Function and
+    Antigen Binding Energy
+  authors:
+  - Wenny Camilla dos Santos Adan
+  - Matheus Vitor Ferreira Ferraz
+  - Roberto Lins
+  journal: null
+  year: 2020
+  doi: 10.26226/morressier.5f6c5f439b74b699bf390b30
+  url: https://doi.org/10.26226%2Fmorressier.5f6c5f439b74b699bf390b30
+- title: 'NWChem: Past, present, and future'
+  authors:
+  - Aprà, E.
+  - Bylaska, E. J.
+  - de Jong, W. A.
+  - Govind, N.
+  - Kowalski, K.
+  - Straatsma, T. P.
+  - Valiev, M.
+  - van Dam, H. J. J.
+  - Alexeev, Y.
+  - Anchell, J.
+  - Anisimov, V.
+  - Aquino, F. W.
+  - Atta-Fynn, R.
+  - Autschbach, J.
+  - Bauman, N. P.
+  - Becca, J. C.
+  - Bernholdt, D. E.
+  - Bhaskaran-Nair, K.
+  - Bogatko, S.
+  - Borowski, P.
+  - Boschen, J.
+  - Brabec, J.
+  - Bruner, A.
+  - Cauët, E.
+  - Chen, Y.
+  - Chuev, G. N.
+  - Cramer, C. J.
+  - Daily, J.
+  - Deegan, M. J. O.
+  - Dunning, T. H.
+  - Dupuis, M.
+  - Dyall, K. G.
+  - Fann, G. I.
+  - Fischer, S. A.
+  - Fonari, A.
+  - Früchtl, H.
+  - Gagliardi, L.
+  - Garza, J.
+  - Gawande, N.
+  - Ghosh, S.
+  - Glaesemann, K.
+  - Götz, A. W.
+  - Hammond, J.
+  - Helms, V.
+  - Hermes, E. D.
+  - Hirao, K.
+  - Hirata, S.
+  - Jacquelin, M.
+  - Jensen, L.
+  - Johnson, B. G.
+  - Jónsson, H.
+  - Kendall, R. A.
+  - Klemm, M.
+  - Kobayashi, R.
+  - Konkov, V.
+  - Krishnamoorthy, S.
+  - Krishnan, M.
+  - Lin, Z.
+  - Lins, R. D.
+  - Littlefield, R. J.
+  - Logsdail, A. J.
+  - Lopata, K.
+  - Ma, W.
+  - Marenich, A. V.
+  - Martin del Campo, J.
+  - Mejia-Rodriguez, D.
+  - Moore, J. E.
+  - Mullin, J. M.
+  - Nakajima, T.
+  - Nascimento, D. R.
+  - Nichols, J. A.
+  - Nichols, P. J.
+  - Nieplocha, J.
+  - Otero-de-la-Roza, A.
+  - Palmer, B.
+  - Panyala, A.
+  - Pirojsirikul, T.
+  - Peng, B.
+  - Peverati, R.
+  - Pittner, J.
+  - Pollack, L.
+  - Richard, R. M.
+  - Sadayappan, P.
+  - Schatz, G. C.
+  - Shelton, W. A.
+  - Silverstein, D. W.
+  - Smith, D. M. A.
+  - Soares, T. A.
+  - Song, D.
+  - Swart, M.
+  - Taylor, H. L.
+  - Thomas, G. S.
+  - Tipparaju, V.
+  - Truhlar, D. G.
+  - Tsemekhman, K.
+  - Van Voorhis, T.
+  - Vázquez-Mayagoitia, Á.
+  - Verma, P.
+  - Villa, O.
+  - Vishnu, A.
+  - Vogiatzis, K. D.
+  - Wang, D.
+  - Weare, J. H.
+  - Williamson, M. J.
+  - Windus, T. L.
+  - Woliński, K.
+  - Wong, A. T.
+  - Wu, Q.
+  - Yang, C.
+  - Yu, Q.
+  - Zacharias, M.
+  - Zhang, Z.
+  - Zhao, Y.
+  - Harrison, R. J.
+  journal: The Journal of Chemical Physics
+  year: 2020
+  doi: 10.1063/5.0004997
+  url: http://dx.doi.org/10.1063/5.0004997
+- title: 'SuAVE}: A Tool for Analyzing Curvature-Dependent Properties in Chemical
+    Interfaces'
+  authors:
+  - Denys E. S. Santos
+  - Frederico J. S. Pontes
+  - Roberto D. Lins
+  - Kaline Coutinho
+  - Thereza A. Soares
+  journal: Journal of Chemical Information and Modeling
+  year: 2019
+  doi: 10.1021/acs.jcim.9b00569
+  url: https://doi.org/10.1021%2Facs.jcim.9b00569
+- title: Unraveling the Role of Nanobodies Tetrad on Their Folding and Stability Assisted
+    by Machine and Deep Learning Algorithms
+  authors:
+  - Matheus Vitor Ferreira Ferraz
+  - Wenny Camilla dos Santos Adan
+  - Roberto Dias Lins
+  journal: null
+  year: 2020
+  doi: 10.1007/978-3-030-65775-8_9
+  url: https://doi.org/10.1007%2F978-3-030-65775-8_9
+- title: 'Study protocol for the multicentre cohorts of Zika virus infection in pregnant
+    women, infants, and acute clinical cases in Latin America and the Caribbean: the
+    {ZIKAlliance} consortium'
+  authors:
+  - Vivian I. Avelino-Silva
+  - ''
+  - Philippe Mayaud
+  - Adriana Tami
+  - Maria C. Miranda
+  - Kerstin D. Rosenberger
+  - Neal Alexander
+  - Luis Nacul
+  - Aluisio Segurado
+  - Moritz Pohl
+  - Sarah Bethencourt
+  - Luis A. Villar
+  - Isabelle F. T. Viana
+  - Renata Rabello
+  - Carmen Soria
+  - Silvia P. Salgado
+  - Eduardo Gotuzzo
+  - Mar{\'{\i}}a G. Guzm{\'{a}}n
+  - Pedro A. Mart{\'{\i}}nez
+  - Hugo L{\'{o}}pez-Gatell
+  - Jennifer Hegewisch-Taylor
+  - Victor H. Borja-Aburto
+  - Cesar Gonzalez
+  - Eduardo M. Netto
+  - Paola M. Saba Villarroel
+  - Bruno Hoen
+  - Patr{\'{\i}}cia Brasil
+  - Ernesto T. A. Marques
+  - Barry Rockx
+  - Marion Koopmans
+  - Xavier de Lamballerie
+  - Thomas Jaenisch
+  journal: '{BMC} Infectious Diseases'
+  year: 2019
+  doi: 10.1186/s12879-019-4685-9
+  url: https://doi.org/10.1186%2Fs12879-019-4685-9
+- title: The influence of biotinylation on the ability of a computer designed protein
+    to detect B-cells producing anti-{HIV}-1 2F5 antibodies
+  authors:
+  - Danilo F. Co{\^{e}}lho
+  - Matheus V.F. Ferraz
+  - Ernesto T.A. Marques
+  - Roberto D. Lins
+  - Isabelle F.T. Viana
+  journal: Journal of Molecular Graphics and Modelling
+  year: 2019
+  doi: 10.1016/j.jmgm.2019.107442
+  url: https://doi.org/10.1016%2Fj.jmgm.2019.107442
+- title: Influence of directional positive Darwinian selection-driven evolution on
+    arboviruses Dengue and Zika virulence and pathogenesis
+  authors:
+  - Ricardo Dur{\~{a}}es-Carvalho
+  - Louisa F. Ludwig-Begall
+  - Marco Salemi
+  - Roberto D. Lins
+  - Ernesto T.A. Marques
+  journal: Molecular Phylogenetics and Evolution
+  year: 2019
+  doi: 10.1016/j.ympev.2019.106607
+  url: https://doi.org/10.1016%2Fj.ympev.2019.106607
+- title: Duffy binding-like 1$\upalpha$ adhesin from Plasmodium falciparum recognizes
+    {ABH} histo-blood group saccharide in a type specific manner
+  authors:
+  - Isadora A. Oliveira
+  - La{\'{e}}rcio Pol-Fachin
+  - Sebasti{\~{a}}o T. de Carvalho
+  - Roberto D. Lins
+  - Thereza A. Soares
+  - Ronaldo Mohana-Borges
+  - Jorge L. Neves
+  - Adriane R. Todeschini
+  journal: Carbohydrate Polymers
+  year: 2019
+  doi: 10.1016/j.carbpol.2018.11.082
+  url: https://doi.org/10.1016%2Fj.carbpol.2018.11.082
+- title: Rational Zika vaccine design via the modulation of antigen membrane anchors
+    in chimpanzee adenoviral vectors
+  authors:
+  - López-Camacho, César
+  - Abbink, Peter
+  - Larocca, Rafael A.
+  - Dejnirattisai, Wanwisa
+  - Boyd, Michael
+  - Badamchi-Zadeh, Alex
+  - Wallace, Zoë R.
+  - Doig, Jennifer
+  - Velazquez, Ricardo Sanchez
+  - Neto, Roberto Dias Lins
+  - Coelho, Danilo F.
+  - Kim, Young Chan
+  - Donald, Claire L.
+  - Owsianka, Ania
+  - De Lorenzo, Giuditta
+  - Kohl, Alain
+  - Gilbert, Sarah C.
+  - Dorrell, Lucy
+  - Mongkolsapaya, Juthathip
+  - Patel, Arvind H.
+  - Screaton, Gavin R.
+  - Barouch, Dan H.
+  - Hill, Adrian V. S.
+  - Reyes-Sandoval, Arturo
+  journal: Nature Communications
+  year: 2018
+  doi: 10.1038/s41467-018-04859-5
+  url: http://dx.doi.org/10.1038/s41467-018-04859-5
+- title: 'Aromatic Rings Commonly Used in Medicinal Chemistry: Force Fields Comparison
+    and Interactions With Water Toward the Design of New Chemical Entities'
+  authors:
+  - Marcelo D. Pol{\^{e}}to
+  - Victor H. Rusu
+  - Bruno I. Grisci
+  - Marcio Dorn
+  - Roberto D. Lins
+  - Hugo Verli
+  journal: Frontiers in Pharmacology
+  year: 2018
+  doi: 10.3389/fphar.2018.00395
+  url: https://doi.org/10.3389%2Ffphar.2018.00395
+- title: Significant Performance Enhancement of Polymer Resins by Bioinspired Dynamic
+    Bonding
+  authors:
+  - Sungbaek Seo
+  - Dong Woog Lee
+  - Jin Soo Ahn
+  - Keila Cunha
+  - Emmanouela Filippidi
+  - Sung Won Ju
+  - Eeseul Shin
+  - Byeong-Su Kim
+  - Zachary A. Levine
+  - Roberto D. Lins
+  - Jacob N. Israelachvili
+  - J. Herbert Waite
+  - Megan T. Valentine
+  - Joan Emma Shea
+  - B. Kollbe Ahn
+  journal: Advanced Materials
+  year: 2017
+  doi: 10.1002/adma.201703026
+  url: https://doi.org/10.1002%2Fadma.201703026
+- title: Polymyxin Binding to the Bacterial Outer Membrane Reveals Cation Displacement
+    and Increasing Membrane Curvature in Susceptible but Not in Resistant Lipopolysaccharide
+    Chemotypes
+  authors:
+  - Denys E. S. Santos
+  - La{\'{e}}rcio Pol-Fachin
+  - Roberto D. Lins
+  - Thereza A. Soares
+  journal: Journal of Chemical Information and Modeling
+  year: 2017
+  doi: 10.1021/acs.jcim.7b00271
+  url: https://doi.org/10.1021%2Facs.jcim.7b00271
+- title: Mapping Putative B-Cell Zika Virus {NS}1 Epitopes Provides Molecular Basis
+    for Anti-{NS}1 Antibody Discrimination between Zika and Dengue Viruses
+  authors:
+  - Marjorie C. L. C. Freire
+  - La{\'{e}}rcio Pol-Fachin
+  - Danilo F. Co{\^{e}}lho
+  - Isabelle F. T. Viana
+  - Tereza Magalh{\~{a}}es
+  - Marli T. Cordeiro
+  - Nico Fischer
+  - Felix F. Loeffler
+  - Thomas Jaenisch
+  - Rafael F. Franca
+  - Ernesto T. A. Marques
+  - Roberto D. Lins
+  journal: '{ACS} Omega'
+  year: 2017
+  doi: 10.1021/acsomega.7b00608
+  url: https://doi.org/10.1021%2Facsomega.7b00608
+- title: Conformational stability of the epidermal growth factor ({EGF}) receptor
+    as influenced by glycosylation, dimerization and {EGF} hormone binding
+  authors:
+  - Eric S. Taylor
+  - Laercio Pol-Fachin
+  - Roberto D. Lins
+  - Steven K. Lower
+  journal: 'Proteins: Structure, Function, and Bioinformatics'
+  year: 2017
+  doi: 10.1002/prot.25220
+  url: https://doi.org/10.1002%2Fprot.25220
+- title: Molecularly Smooth Self-Assembled Monolayer for High-Mobility Organic Field-Effect
+    Transistors
+  authors:
+  - Saurabh Das
+  - Byoung Hoon Lee
+  - Roscoe T. H. Linstadt
+  - Keila Cunha
+  - Youli Li
+  - Yair Kaufman
+  - Zachary A. Levine
+  - Bruce H. Lipshutz
+  - Roberto D. Lins
+  - Joan-Emma Shea
+  - Alan J. Heeger
+  - B. Kollbe Ahn
+  journal: Nano Letters
+  year: 2016
+  doi: 10.1021/acs.nanolett.6b03860
+  url: https://doi.org/10.1021%2Facs.nanolett.6b03860
+- title: De Novo Design and Biophysical Characterization of an Affinity-Enhanced Protein
+    Displaying the Structure of the Broadly Neutralizing {HIV}-1 2F5 Antibody Epitope
+  authors:
+  - Isabelle Freire Tabosa Viana
+  - Eduardo Nascimento
+  - Jodi Craigo
+  - Marco Krieger
+  - Robbie Mailliard
+  - Rafael Dhalia
+  - Roberto Lins
+  - Ernesto T.A. Marques
+  journal: Biophysical Journal
+  year: 2016
+  doi: 10.1016/j.bpj.2015.11.1860
+  url: https://doi.org/10.1016%2Fj.bpj.2015.11.1860
+- title: Endovascular Infections Caused by Methicillin-Resistant Staphylococcus aureus
+    Are Linked to Clonal Complex-Specific Alterations in Binding and Invasion Domains
+    of Fibronectin-Binding Protein A as Well as the Occurrence of                      {fnbB
+  authors:
+  - Yan Q. Xiong
+  - Batu K. Sharma-Kuinkel
+  - Nadia N. Casillas-Ituarte
+  - Vance G. Fowler
+  - Thomas Rude
+  - Alex C. DiBartola
+  - Roberto D. Lins
+  - Wessam Abdel-Hady
+  - Steven K. Lower
+  - Arnold S. Bayer
+  journal: Infection and Immunity
+  year: 2015
+  doi: 10.1128/iai.01074-15
+  url: https://doi.org/10.1128%2Fiai.01074-15
+- title: Assessing protein conformational sampling and structural stability via de
+    novo design and molecular dynamics simulations
+  authors:
+  - Keila C. Cunha
+  - Victor H. Rusu
+  - Isabelle F. T. Viana
+  - Ernesto T. A. Marques
+  - Rafael Dhalia
+  - Roberto D. Lins
+  journal: Biopolymers
+  year: 2015
+  doi: 10.1002/bip.22626
+  url: https://doi.org/10.1002%2Fbip.22626
+- title: Comparative hazard analysis and toxicological modeling of diverse nanomaterials
+    using the embryonic zebrafish (EZ) metric of toxicity
+  authors:
+  - Harper, Bryan
+  - Thomas, Dennis
+  - Chikkagoudar, Satish
+  - Baker, Nathan
+  - Tang, Kaizhi
+  - Heredia-Langner, Alejandro
+  - Lins, Roberto
+  - Harper, Stacey
+  journal: Journal of Nanoparticle Research
+  year: 2015
+  doi: null
+  url: null
+- title: Extension and validation of the {GROMOS} 53A6glycparameter set for glycoproteins
+  authors:
+  - Laercio Pol-Fachin
+  - Hugo Verli
+  - Roberto D. Lins
+  journal: Journal of Computational Chemistry
+  year: 2014
+  doi: 10.1002/jcc.23721
+  url: https://doi.org/10.1002%2Fjcc.23721
+- title: Anionic Form of Usnic Acid Promotes Lamellar to Nonlamellar Transition in
+    DPPC and DOPC Membranes
+  authors:
+  - Nadvorny, Daniela
+  - da Silva, Joao Bosco P.
+  - Lins, Roberto D.
+  journal: Journal of Physical Chemistry B
+  year: 2014
+  doi: null
+  url: null
+- title: Desorption/ionization efficiencies of triacylglycerols and phospholipids
+    via EASI-MS
+  authors:
+  - Fernandes, Anna Maria A. P.
+  - Fernandes, Gabriel D.
+  - Barrera-Arellano, Daniel
+  - de Sa, Gilberto F.
+  - Lins, Roberto D.
+  - Eberlin, Marcos N.
+  - Alberici, Rosana M.
+  journal: Journal of Mass Spectrometry
+  year: 2014
+  doi: null
+  url: null
+- title: 'Development of fine- and coarse-grained carbohydrate force fields: When
+    one size fits all'
+  authors:
+  - Lins, Roberto D.
+  journal: Abstracts of Papers of the American Chemical Society
+  year: 2014
+  doi: null
+  url: null
+- title: GROMOS 53A6(GLYC) force field for aldohexopyranoses and glycoproteins
+  authors:
+  - Pol-Fachin, Laercio
+  - Verli, Hugo
+  - Lins, Roberto Dias
+  journal: Abstracts of Papers of the American Chemical Society
+  year: 2014
+  doi: null
+  url: null
+- title: Hydration, ionic valence and cross-linking propensities of cations determine
+    the stability of lipopolysaccharide (LPS) membranes
+  authors:
+  - Nascimento, Agrinaldo, Jr.
+  - Pontes, Frederico J. S.
+  - Lins, Roberto D.
+  - Soares, Thereza A.
+  journal: Chemical Communications
+  year: 2014
+  doi: null
+  url: null
+- title: 'MDWiZ: A platform for the automated translation of molecular dynamics simulations'
+  authors:
+  - Rusu, Victor H.
+  - Horta, Vitor A. C.
+  - Horta, Bruno A. C.
+  - Lins, Roberto D.
+  - Baron, Riccardo
+  journal: Journal of Molecular Graphics & Modelling
+  year: 2014
+  doi: null
+  url: null
+- title: 'PITOMBA: Parameter Interface for Oligosaccharide Molecules Based on Atoms'
+  authors:
+  - Rusu, Victor H.
+  - Baron, Riccardo
+  - Lins, Roberto D.
+  journal: Journal of Chemical Theory and Computation
+  year: 2014
+  doi: null
+  url: null
+- title: De novo design of immunoreactive conformation-specific HIV-1 epitopes based
+    on Top7 scaffold
+  authors:
+  - Viana, Isabelle F. T.
+  - Soares, Thereza A.
+  - Lima, Lucianna F. O.
+  - Marques, Ernesto T. A.
+  - Krieger, Marco A.
+  - Dhalia, Rafael
+  - Lins, Roberto D.
+  journal: Rsc Advances
+  year: 2013
+  doi: null
+  url: null
+- title: 'IMSPeptider: A computational peptide collision cross-section area calculator
+    based on a novel molecular dynamics simulation protocol'
+  authors:
+  - de Carvalho, Ranieri V.
+  - Lopez-Ferrer, Daniel
+  - Guimaraes, Katia S.
+  - Lins, Roberto D.
+  journal: Journal of Computational Chemistry
+  year: 2013
+  doi: null
+  url: null
+- title: Influence of Scaffold Stability and Electrostatics on Top7-Based Engineered
+    Helical HIV-1 Epitopes
+  authors:
+  - Viana, Isabelle F. T.
+  - Dhalia, Rafael
+  - Krieger, Marco A.
+  - Marques, Ernesto T. A.
+  - Lins, Roberto D.
+  - Setubal, JC
+  - Almeida, NF
+  journal: Advances in Bioinformatics and Computational Biology
+  year: 2013
+  doi: null
+  url: null
+- title: Novel coarse-grained force field for carbohydrates
+  authors:
+  - Rusu, Victor H.
+  - Baron, Riccardo
+  - Lins, Roberto D.
+  journal: Abstracts of Papers of the American Chemical Society
+  year: 2013
+  doi: null
+  url: null
+- title: 'A Glycam-Based Force Field for Simulations of Lipopolysaccharide Membranes:
+    Parametrization and Validation'
+  authors:
+  - Kirschner, Karl N.
+  - Lins, Roberto D.
+  - Maass, Astrid
+  - Soares, Thereza A.
+  journal: Journal of Chemical Theory and Computation
+  year: 2012
+  doi: null
+  url: null
+- title: GROMOS 53A6(GLYC), an Improved GROMOS Force Field for Hexopyranose-Based
+    Carbohydrates
+  authors:
+  - Pol-Fachin, Laercio
+  - Rusu, Victor H.
+  - Verli, Hugo
+  - Lins, Roberto D.
+  journal: Journal of Chemical Theory and Computation
+  year: 2012
+  doi: null
+  url: null
+- title: 'The Effect of Temperature, Cations, and Number of Acyl Chains on the Lamellar
+    to Non-Lamellar Transition in Lipid-A Membranes: A Microscopic View'
+  authors:
+  - Pontes, Frederico J. S.
+  - Rusu, Victor H.
+  - Soares, Thereza A.
+  - Lins, Roberto D.
+  journal: Journal of Chemical Theory and Computation
+  year: 2012
+  doi: null
+  url: null
+- title: Chitosan Molecular Structure as a Function of N-Acetylation
+  authors:
+  - Franca, Eduardo F.
+  - Freitas, Luiz C. G.
+  - Lins, Roberto D.
+  journal: Biopolymers
+  year: 2011
+  doi: null
+  url: null
+- title: Conformational Variability of Organophosphorus Hydrolase upon Soman and Paraoxon
+    Binding
+  authors:
+  - Gomes, Diego E. B.
+  - Lins, Roberto D.
+  - Pascutti, Pedro G.
+  - Lei, Chenghong
+  - Soares, Thereza A.
+  journal: Journal of Physical Chemistry B
+  year: 2011
+  doi: null
+  url: null
+- title: Modeling the Nanophase Structural Dynamics of Phenylated Sulfonated Poly
+    Ether Ether Ketone Ketone (Ph-SPEEKK) Membranes As a Function of Hydration
+  authors:
+  - Lins, Roberto D.
+  - Devanathan, Ram
+  - Dupuis, Michel
+  journal: Journal of Physical Chemistry B
+  year: 2011
+  doi: null
+  url: null
+- title: Molecular modeling of ion transport and water percolation in Nafion and Ph-SPEEKK
+    membranes
+  authors:
+  - Devanathan, Ram
+  - Lins, Roberto
+  - Idupulapati, Nagesh
+  - Venkatnathan, Arun
+  - Dupuis, Michel
+  journal: Abstracts of Papers of the American Chemical Society
+  year: 2011
+  doi: null
+  url: null
+- title: Polymorphisms in fibronectin binding protein A of Staphylococcus aureus are
+    associated with infection of cardiovascular devices
+  authors:
+  - Lower, Steven K.
+  - Lamlertthon, Supaporn
+  - Casillas-Ituarte, Nadia N.
+  - Lins, Roberto D.
+  - Yongsunthon, Ruchirej
+  - Taylor, Eric S.
+  - DiBartola, Alex C.
+  - Edmonson, Catherine
+  - McIntyre, Lauren M.
+  - Reller, L. Barth
+  - Que, Yok-Ai
+  - Ros, Robert
+  - Lower, Brian H.
+  - Fowler, Vance G., Jr.
+  journal: Proceedings of the National Academy of Sciences of the United States of
+    America
+  year: 2011
+  doi: null
+  url: null
+- title: Prebiotic Chemical Kinetics Imprint on Positional Codon Usage
+  authors:
+  - Ferreira, Ricardo
+  - Lai, Kevin
+  - Lins, Roberto D.
+  journal: Journal of the Brazilian Chemical Society
+  year: 2010
+  doi: null
+  url: null
+- title: The Role of Nonbonded Interactions in the Conformational Dynamics of Organophosphorous
+    Hydrolase Adsorbed onto Functionalized Mesoporous Silica Surfaces
+  authors:
+  - Gomes, Diego E. B.
+  - Lins, Roberto D.
+  - Pascutti, Pedro G.
+  - Lei, Chenghong
+  - Soares, Thereza A.
+  journal: Journal of Physical Chemistry B
+  year: 2010
+  doi: null
+  url: null
+- title: Electrostatic Cooperativity of Hydroxyl Groups at Metal Oxide Surfaces
+  authors:
+  - Boily, Jean-Francois
+  - Lins, Roberto D.
+  journal: Journal of Physical Chemistry C
+  year: 2009
+  doi: null
+  url: null
+- title: Interaction between the CBM of Cel9A from Thermobifida fusca and cellulose
+    fibers
+  authors:
+  - Oliveira, Osmair V.
+  - Freitas, Luiz C. G.
+  - Straatsma, T. P.
+  - Lins, Roberto D.
+  journal: Journal of Molecular Recognition
+  year: 2009
+  doi: null
+  url: null
+- title: Molecular structure of chitosan nanoparticles in solution
+  authors:
+  - Lins, Roberto D.
+  - Franca, Eduardo F.
+  - Freitas, Luiz C. G.
+  journal: Abstracts of Papers of the American Chemical Society
+  year: 2009
+  doi: null
+  url: null
+- title: Characterization of Chitin and Chitosan Molecular Structure in Aqueous Solution
+  authors:
+  - Franca, Eduardo F.
+  - Lins, Roberto D.
+  - Freitas, Luiz C. G.
+  - Straatsma, T. P.
+  journal: Journal of Chemical Theory and Computation
+  year: 2008
+  doi: null
+  url: null
+- title: Computer simulation of uranyl uptake by the rough lipopolysaccharide membrane
+    of pseudomonas aeruginosa
+  authors:
+  - Lins, Roberto D.
+  - Vorpagel, Erich R.
+  - Guglielmi, Matteo
+  - Straatsma, T. P.
+  journal: Biomacromolecules
+  year: 2008
+  doi: null
+  url: null
+- title: In vitro evolution of a peptide with a hematite binding motif that may constitute
+    a natural metal-oxide binding archetype
+  authors:
+  - Lower, Brian H.
+  - Lins, Roberto D.
+  - Oestreicher, Zachery
+  - Straatsma, Tjerk P.
+  - Hochella, Michael F., Jr.
+  - Shi, Liang
+  - Lower, Steven K.
+  journal: Environmental Science & Technology
+  year: 2008
+  doi: null
+  url: null
+- title: Influence of the B-band O-antigen chain in the structure and electrostatics
+    of the lipopolysaccharide membrane of Pseudomonas aeruginosa
+  authors:
+  - Soares, Thereza A.
+  - Straatsma, T. P.
+  - Lins, Roberto D.
+  journal: Journal of the Brazilian Chemical Society
+  year: 2008
+  doi: null
+  url: null
+- title: Molecular models to emulate confinement effects on the internal dynamics
+    of organophosphorous hydrolase
+  authors:
+  - Gomes, Diego E. B.
+  - Lins, Roberto D.
+  - Pascutti, Pedro G.
+  - Straatsma, Tjerk P.
+  - Soares, Thereza A.
+  - Bazzan, ALC
+  - Craven, M
+  - Martins, NF
+  journal: null
+  year: 2008
+  doi: null
+  url: null
+- title: Revisiting the internal conformational dynamics and solvation properties
+    of cyclodextrins
+  authors:
+  - Pereira, Cristina S.
+  - de Moura, Andre F.
+  - Freitas, Lutz Carlos G.
+  - Lins, Roberto A.
+  journal: Journal of the Brazilian Chemical Society
+  year: 2007
+  doi: null
+  url: null
+- title: Influence of long-range electrostatic treatments on the folding of the N-terminal
+    H4 histone tail peptide
+  authors:
+  - Lins, RD
+  - Rothlisberger, U
+  journal: Journal of Chemical Theory and Computation
+  year: 2006
+  doi: null
+  url: null
+- title: 'Protein under pressure: Molecular dynamics simulation of the arc repressor'
+  authors:
+  - Trzesniak, Daniel
+  - Lins, Roberto D.
+  - van Gunsteren, Wilfred F.
+  journal: Proteins-Structure Function and Bioinformatics
+  year: 2006
+  doi: null
+  url: null
+- title: The stability of right- and left-handed alpra-helices as a function of monomer
+    chirality
+  authors:
+  - Lins, Roberto Dias
+  - Ferreira, Ricardo
+  journal: Quimica Nova
+  year: 2006
+  doi: null
+  url: null
+- title: A new GROMOS force field for hexopyranose-based carbohydrates
+  authors:
+  - Lins, RD
+  - Hunenberger, PH
+  journal: Journal of Computational Chemistry
+  year: 2005
+  doi: null
+  url: null
+- title: An improved nucleic acid parameter set for the GROMOS force field
+  authors:
+  - Soares, TA
+  - Hunenberger, PH
+  - Kastenholz, MA
+  - Krautler, V
+  - Lenz, T
+  - Lins, RD
+  - Oostenbrink, C
+  - Van Gunsteren, WF
+  journal: Journal of Computational Chemistry
+  year: 2005
+  doi: null
+  url: null
+- title: Variational particle number approach for rational compound design
+  authors:
+  - von Lilienfeld, OA
+  - Lins, RD
+  - Rothlisberger, U
+  journal: Physical Review Letters
+  year: 2005
+  doi: null
+  url: null
+- title: 'Interaction of the disaccharide trehalose with a phospholipid bilayer: A
+    molecular dynamics study'
+  authors:
+  - Pereira, CS
+  - Lins, RD
+  - Chandrasekhar, I
+  - Freitas, LCG
+  - Hunenberger, PH
+  journal: Biophysical Journal
+  year: 2004
+  doi: null
+  url: null
+- title: Prediction of HIV-1 integrase/viral DNA interactions in the catalytic domain
+    by fast molecular docking
+  authors:
+  - Adesokan, AA
+  - Roberts, VA
+  - Lee, KW
+  - Lins, RD
+  - Briggs, JM
+  journal: Journal of Medicinal Chemistry
+  year: 2004
+  doi: null
+  url: null
+- title: Trehalose-protein interaction in aqueous solution
+  authors:
+  - Lins, RD
+  - Pereira, CS
+  - Hunenberger, PH
+  journal: Proteins-Structure Function and Bioinformatics
+  year: 2004
+  doi: null
+  url: null
+- title: 'A consistent potential energy parameter set for lipids: dipalmitoylphosphatidylcholine
+    as a benchmark of the GROMOS96 45A3 force field'
+  authors:
+  - Chandrasekhar, I
+  - Kastenholz, M
+  - Lins, RD
+  - Oostenbrink, C
+  - Schuler, LD
+  - Tieleman, DP
+  - van Gunsteren, WF
+  journal: European Biophysics Journal With Biophysics Letters
+  year: 2003
+  doi: null
+  url: null
+- title: 'Internal dynamics and ionization states of the macrophage migration inhibitory
+    factor: Comparison between wild-type and mutant forms'
+  authors:
+  - Soares, TA
+  - Lins, RD
+  - Straatsma, TP
+  - Briggs, JM
+  journal: Biopolymers
+  year: 2002
+  doi: null
+  url: null
+- title: Computer simulation of the rough lipopolysaccharide membrane of Pseudomonas
+    aeruginosa
+  authors:
+  - Lins, RD
+  - Straatsma, TP
+  journal: Biophysical Journal
+  year: 2001
+  doi: null
+  url: null
+- title: Electrostatic interactions in biomolecular systems
+  authors:
+  - Hunenberger, PH
+  - Borjesson, U
+  - Lins, RD
+  journal: Chimia
+  year: 2001
+  doi: null
+  url: null
+- title: Developing a dynamic pharmacophore model for HIV-1 integrase
+  authors:
+  - Carlson, HA
+  - Masukawa, KM
+  - Rubins, K
+  - Bushman, FD
+  - Jorgensen, WL
+  - Lins, RD
+  - Briggs, JM
+  - McCammon, JA
+  journal: Journal of Medicinal Chemistry
+  year: 2000
+  doi: null
+  url: null
+- title: Investigations on human immunodeficiency virus type 1 integrase/DNA binding
+    interactions via molecular dynamics and electrostatics calculations
+  authors:
+  - Lins, RD
+  - Adesokan, A
+  - Soares, TA
+  - Briggs, JM
+  journal: Pharmacology & Therapeutics
+  year: 2000
+  doi: null
+  url: null
+- title: Similarities in the HIV-1 and ASV integrase active sites upon metal cofactor
+    binding
+  authors:
+  - Lins, RD
+  - Straatsma, TP
+  - Briggs, JM
+  journal: Biopolymers
+  year: 2000
+  doi: null
+  url: null
+- title: A dynamic pharmacophore model for HIV-1 integrase.
+  authors:
+  - Carlson, HA
+  - Masukawa, KM
+  - Lins, RD
+  - Briggs, JM
+  - Jorgensen, WL
+  - McCammon, JA
+  journal: Abstracts of Papers of the American Chemical Society
+  year: 1999
+  doi: null
+  url: null
+- title: Molecular dynamics studies on the HIV-1 integrase catalytic domain
+  authors:
+  - Lins, RD
+  - Briggs, JM
+  - Straatsma, TP
+  - Carlson, HA
+  - Greenwald, J
+  - Choe, S
+  - McCammon, JA
+  journal: Biophysical Journal
+  year: 1999
+  doi: null
+  url: null
+- title: Solvent accessibility to aspartyl and succinimidyl residues at positions
+    7 and 23 in the amyloid beta 1-28 peptide
+  authors:
+  - Lins, RD
+  - Soares, TA
+  - Ferreira, R
+  - Longo, RL
+  journal: Zeitschrift Fur Naturforschung C-a Journal of Biosciences
+  year: 1999
+  doi: null
+  url: null
+- title: Brownian and essential dynamics studies of the HIV-1 integrase catalytic
+    domain
+  authors:
+  - Weber, W
+  - Demirdjian, H
+  - Lins, RD
+  - Briggs, JM
+  - Ferreira, R
+  - McCammon, JA
+  journal: Journal of Biomolecular Structure & Dynamics
+  year: 1998
+  doi: null
+  url: null
+- title: Plural origins of molecular homochirality in our biota .2. The relative stabilities
+    of homochiral and mixed oligoribotides and peptides
+  authors:
+  - Soares, TA
+  - Lins, RD
+  - Longo, R
+  - Garratt, R
+  - Ferreira, R
+  journal: Zeitschrift Fur Naturforschung C-a Journal of Biosciences
+  year: 1997
+  doi: null
+  url: null
+- title: Plural origins of the molecular homochirality in our biota
+  authors:
+  - Lins, RD
+  - Soares, TA
+  - Ferreira, R
+  journal: Zeitschrift Fur Naturforschung C-a Journal of Biosciences
+  year: 1996
+  doi: null
+  url: null
+- title: RIBOZYMES - NOT EVERY ENZYME IS A PROTEIN
+  authors:
+  - SOARES, TA
+  - LINS, RD
+  journal: Quimica Nova
+  year: 1995
+  doi: null
+  url: null
