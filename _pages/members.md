@@ -1,34 +1,28 @@
 ---
 layout: archive
 title: "Members"
-author_profile: true
 permalink: /members/
 ---
 
-
-Members
-======
-
-Leading Researchers
-======
+## Leading Researchers
 
 Roberto Lins
 Isabelle Viana
 
-Postdoctoral Fellows
-======
+## Postdoctoral Fellows
+
 Marta Illana
 
-PhD Students
-======
+## PhD Students
+
 Julio Simoes
 Milena Oliveira
-Tayná Lima
+Tayna Lima
 Licya Xavier
 Bruno Leite
 
-Master's Students
-======
+## Master's Students
+
 Michelly Lopes
 Whendel Santos
 Marilia Silva
