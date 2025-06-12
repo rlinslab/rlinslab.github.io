@@ -1,5 +1,5 @@
 ---
-permalink: /
+layout: archive
 title: "Members"
 author_profile: true
 permalink: /members/
