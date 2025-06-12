@@ -14,9 +14,6 @@ title_separator          : "-"
 name                     : &name "Roberto Lins"
 description              : &description "Senior Research Scientist"
 remote_theme: "mmistakes/minimal-mistakes"
-plugins:
-  - jekyll-remote-theme
-
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -26,7 +23,7 @@ author:
   avatar           : "Lins_fotoiam.jpg"
   name             : "Roberto Lins"
   pronouns         : # example: "he/him"  
-  bio              : "Senior Research Scienstist, Oswaldo Cruz Foundation"
+  bio              : "Senior Research Scientist, Oswaldo Cruz Foundation"
   location         : "Recife, Brazil"
   employer         : "Oswaldo Cruz Foundation"
   uri              : # URL
@@ -90,23 +87,6 @@ alexa_site_verification  :
 yandex_site_verification :
 
 
-# Social Sharing
-twitter:
-  username               : &twitter
-facebook:
-  username               :
-  app_id                 :
-  publisher              :
-og_image                 :  # Social media default site image
-og_description           :  # Social media default site image description
-# For specifying social profiles
-# - https://developers.google.com/structured-data/customize/social-profiles
-social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
-
-
 # Analytics
 analytics:
   provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
@@ -116,6 +96,7 @@ analytics:
 
 # Reading Files
 include:
+  - _includes
   - .htaccess
   - _pages
   - files
@@ -189,7 +170,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
+      comments: false
       share: true
       related: true
   # _pages
@@ -207,7 +188,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comments: true
+      comments: false
   # _publications
   - scope:
       path: ""
@@ -217,7 +198,7 @@ defaults:
       author_profile: false
       read_time: false
       share: false
-      comments: true
+      comments: false
   # _portfolio
   - scope:
       path: ""
@@ -258,6 +239,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
+  - jekyll-remote-theme
 
 # Mimic GitHub Pages with --safe
 whitelist:
