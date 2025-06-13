@@ -2,7 +2,7 @@
 title: "Publications"
 layout: splash
 permalink: /publications/
-author_profile: true
+#author_profile: true
 ---
 
 {% for pub in site.data.publications %}
