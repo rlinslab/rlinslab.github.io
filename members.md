@@ -49,4 +49,3 @@ Laercio Pol-Fachin, Professor at Centro Universitário CESMAC (Brazil)
 Eduardo Franca, Professor at UFU (Brazil)
 Osmair Oliveira, Professor at IFSP (Brazil)
 
-
