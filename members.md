@@ -20,6 +20,7 @@ Milena Oliveira
 Tayna Lima  
 Licya Xavier  
 Bruno Leite  
+Daniel Brandao
 
 ## Master's Students
 
@@ -27,4 +28,4 @@ Michelly Lopes
 Whendel Santos  
 Marilia Silva  
 Manasses Nascimento Filho  
-
+Rita Albuquerque
