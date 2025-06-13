@@ -26,6 +26,6 @@ A high performance complete computational chemistry package
 
 [SuAVE](https://github.com/SuAVE-Software/source_v2.0)
 ======
-A software was developed to calculate the effect of curvature of chemical interfaces
+A software that calculates the effect of curvature of chemical interfaces
 
 
