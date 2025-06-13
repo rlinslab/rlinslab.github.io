@@ -13,7 +13,8 @@ Here you will find a list of software we have developed or participated in the d
 [PBEE - Protein Binding Energy Estimator](https://github.com/chavesejf/PBEE)
 ======
 
-A machine-learning based package to calculate the absolute binding free energy of protein-protein interactions
+A machine-learning based package to calculate the absolute binding free energy of protein-protein interactions.
+A [Google Colab](https://colab.research.google.com/drive/1lu1dC0yRltKK_Wp-gF26oHcZSCiHaI8b) version is also available.
 
 [Rotational Profiler](https://rotprof.lncc.org)
 ======
