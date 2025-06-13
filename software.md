@@ -1,8 +1,8 @@
 ---
-layout: archive
+layout: single
 title: "Software"
 permalink: /software/
-author_profile: true
+#author_profile: true
 redirect_from:
   - /software
 ---
