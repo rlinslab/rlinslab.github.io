@@ -7,11 +7,11 @@ permalink: /members/
 <div style="display: flex; justify-content: center; gap: 2rem; flex-wrap: wrap;">
 
   <figure style="text-align: center;">
-    <img src="{{ '/images/group1.png' | relative_url }}" alt="group1" style="max-width: 250px; height: auto;" />
+    <img src="{{ '/images/group1.png' | relative_url }}" alt="group1" style="max-width: 350px; height: auto;" />
   </figure>
 
   <figure style="text-align: center;">
-    <img src="{{ '/images/group2.png' | relative_url }}" alt="group2" style="max-width: 250px; height: auto;" />
+    <img src="{{ '/images/group2.png' | relative_url }}" alt="group2" style="max-width: 350px; height: auto;" />
   </figure>
 
 </div>
