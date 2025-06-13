@@ -1,12 +1,12 @@
 ---
-layout: splash
+layout: single
 title: "Members"
 permalink: /members/
 ---
 
 ## Leading Researchers
 
-Roberto Lins  
+[Roberto Lins](https://rlinslab.github.io/resume/)  
 Isabelle Viana  
 
 ## Postdoctoral Fellows
@@ -36,17 +36,17 @@ Felipe Labio
 
 ## Alumini
 
-Victor Rusu, software engineer at CSCS (Switzerland)
-Carlos Cruz, Research Scientist at UCL (UK)
-Elton Chaves, Research Scientist at CNPEM (Brazil)
-Matheus Ferraz, NEC OncoImmunity AS (Norway)
-Catarina Cataldi, Master's student at University of Toronto (Canada)
-Camila Adan, Postdoctoral Fellow, University of Sao Paulo (Brazil)
-Antonio Fernando da Purificação Júnior, Lecturer at Santa Marcelina (Brazil)
-Emerson Moreira, Lectuter at IFF-RS (Brazil)
-Danilo Coelho, Associate Professor at UFPE (Brazil)
-Laercio Pol-Fachin, Professor at Centro Universitário CESMAC (Brazil)
-Eduardo Franca, Professor at UFU (Brazil)
-Osmair Oliveira, Professor at IFSP (Brazil)
+Victor Rusu, software engineer at CSCS (Switzerland)  
+Carlos Cruz, Research Scientist at UCL (UK)  
+Elton Chaves, Research Scientist at CNPEM (Brazil)  
+Matheus Ferraz, NEC OncoImmunity AS (Norway)  
+Catarina Cataldi, Master's student at University of Toronto (Canada)  
+Camila Adan, Postdoctoral Fellow, University of Sao Paulo (Brazil)  
+Antonio Fernando da Purificação Júnior, Lecturer at Santa Marcelina (Brazil)  
+Emerson Moreira, Lectuter at IFF-RS (Brazil)  
+Danilo Coelho, Associate Professor at UFPE (Brazil)  
+Laercio Pol-Fachin, Professor at Centro Universitário CESMAC (Brazil)  
+Eduardo Franca, Professor at UFU (Brazil)  
+Osmair Oliveira, Professor at IFSP (Brazil)  
 
-##  
+  
