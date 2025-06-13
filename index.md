@@ -41,9 +41,13 @@ document.addEventListener("DOMContentLoaded", function () {
 </script>
 
 <div style="position: relative; z-index: 1; padding: 2rem; text-align: center;">
+
+  <img src="/assets/images/protein.png" alt="Protein Structure" 
+       style="max-width: 400px; width: 100%; height: auto; margin-bottom: 1.5rem; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
+
   <h1>Welcome to the Protein Engineering and Structural Genomics Group</h1>
   <p style="font-size: 1.2rem; max-width: 700px; margin: auto;">
-    We develop computational and experimental strategies to understand protein structure and function,
+    We develop computational and experimental strategies to understand protein structure and function, 
     design therapeutic candidates, and tackle challenges in molecular biology, structural genomics, and immunology.
   </p>
 </div>
