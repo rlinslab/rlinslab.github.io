@@ -1,6 +1,6 @@
 ---
-layout: home
-title: "Home"
+layout: single
+title: "Welcome"
 author_profile: true
 ---
 Welcome to the Protein Engineering and Structural Genomics Group!
