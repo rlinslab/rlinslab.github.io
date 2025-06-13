@@ -1,84 +1,45 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve -l -H localhost`. If you change this file, please restart the 
-# server process.
-
 # Basic Site Settings
 locale                   : "en-US"
-#site_theme               : "default"
 title                    : "Protein Engineering and Structural Genomics"
 title_separator          : "-"
 name                     : &name "Roberto Lins"
 description              : &description "Senior Research Scientist"
-remote_theme: "mmistakes/minimal-mistakes"
-data_dir: _data
+remote_theme             : "mmistakes/minimal-mistakes"
+data_dir                 : _data
 
-# Site Author - The following control what appear as part of the author content on the side bar.
-#               If a field is blank the icon and link will not appear, otherwise it will be shown.
-#               Additional customization can be done by editing /_includes/author-profile.html
+# Site Author
 author:
-  # Biographic information
   avatar           : "Lins_fotoiam.jpg"
   name             : "Roberto Lins"
-  pronouns         : # example: "he/him"  
   bio              : "Senior Research Scientist, Oswaldo Cruz Foundation"
   location         : "Recife, Brazil"
   employer         : "Oswaldo Cruz Foundation"
-  uri              : # URL
-  email            : "roberto.neto@fiocruz.br" 
-
-  # Academic websites
+  email            : "roberto.neto@fiocruz.br"
   googlescholar    : "https://scholar.google.com/citations?user=xTaiAmcAAAAJ&hl=en"
   orcid            : "https://orcid.org/0000-0002-3983-8025"
 
-# Publication Category - The following the list of publication categories and their headings
+# Publication Category
 publication_category:
   books:
     title: 'Books'
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'Journal Articles'
   conferences:
     title: 'Conference Papers'
 
 # Site Settings
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
-breadcrumbs              : false # true, false (default)
+teaser                   :
+breadcrumbs              : false
 words_per_minute         : 160
 future                   : true
-read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
-talkmap_link             : false      #change to true to add link to talkmap on talks page
+read_more                : "disabled"
+talkmap_link             : false
+
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
-  disqus:
-    shortname            :
-  discourse:
-    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
-  facebook:
-    appid                :
-    num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
-staticman:
-  allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "gh-pages" # "master", "gh-pages"
-  commitMessage          : "New comment."
-  filename               : comment-{@timestamp}
-  format                 : "yml"
-  moderation             : true
-  path                   : "_data/comments/{options.slug}"
-  requiredFields         : ['name', 'email', 'message']
-  transforms:
-    email                : "md5"
-  generatedFields:
-    date:
-      type               : "date"
-      options:
-        format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
+  provider: false
+
 atom_feed:
-  hide                   : false     # change to true to hide the RSS feed in the footer
-  path                   : # blank (default) uses feed.xml
+  hide: true
 
 footer_links: []
 
@@ -88,13 +49,9 @@ bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
 
-
 # Analytics
 analytics:
-  provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
-  google:
-    tracking_id          :
-
+  provider: "false"
 
 # Reading Files
 include:
@@ -129,12 +86,13 @@ exclude:
   - README
   - tmp
   - vendor
+
 keep_files:
   - .git
   - .svn
+
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
-
 
 # Conversion
 markdown: kramdown
@@ -142,7 +100,6 @@ highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
-
 
 # Markdown Processing
 kramdown:
@@ -155,26 +112,14 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
-
-# These settings control the types of collections used by the template
+# Collections
 collections:
   publications:
     output: true
     permalink: /:collection/:path/
 
-# These settings control how pages and collections are included in the site
+# Defaults (NO posts)
 defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: false
-      share: true
-      related: true
   # _pages
   - scope:
       path: ""
@@ -182,6 +127,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+
   # _teaching
   - scope:
       path: ""
@@ -191,6 +137,7 @@ defaults:
       author_profile: true
       share: true
       comments: false
+
   # _publications
   - scope:
       path: ""
@@ -201,6 +148,7 @@ defaults:
       read_time: false
       share: false
       comments: false
+
   # _portfolio
   - scope:
       path: ""
@@ -210,6 +158,7 @@ defaults:
       author_profile: true
       share: true
       comment: true
+
   # _talks
   - scope:
       path: ""
@@ -219,73 +168,43 @@ defaults:
       author_profile: true
       share: true
 
-
 # Sass/SCSS
 sass:
   sass_dir: _sass
-  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+  style: compressed
 
-
-# Outputting
+# Output
 permalink: /:categories/:title/
-# paginate: 5 # amount of posts to show
-# paginate_path: /page:num/
-timezone: Etc/UTC # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Etc/UTC
 
-
-# Plugins
+# Plugins (No paginate, no posts)
 plugins:
   - jekyll-feed
   - jekyll-gist
-  - jekyll-paginate
   - jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
   - jekyll-remote-theme
-  - jekyll-sitemap
 
-# Mimic GitHub Pages with --safe
+# GitHub Pages safe mode
 whitelist:
   - jekyll-feed
   - jekyll-gist
-  - jekyll-paginate
   - jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
 
-
-# Archives
-#  Type
-#  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
-#  - Jekyll Archives plugin archive pages ~> type: jekyll-archives
-#  Path (examples)
-#  - Archive page should exist at path when using Liquid method or you can
-#    expect broken links (especially with breadcrumbs enabled)
-#  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
-#  - <base_path/categories/my-awesome-category/index.html ~> path: /categories/
-#  - <base_path/my-awesome-category/index.html ~> path: /
+# Archives (optional, not needed if posts are removed)
 category_archive:
   type: liquid
   path: /categories/
 tag_archive:
   type: liquid
   path: /tags/
-# https://github.com/jekyll/jekyll-archives
-# jekyll-archives:
-#   enabled:
-#     - categories
-#     - tags
-#   layouts:
-#     category: archive-taxonomy
-#     tag: archive-taxonomy
-#   permalinks:
-#     category: /categories/:name/
-#     tag: /tags/:name/
-
 
 # HTML Compression
-# - http://jch.penibelst.de/
 compress_html:
   clippings: all
   ignore:
     envs: development
+
