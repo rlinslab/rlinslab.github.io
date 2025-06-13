@@ -43,7 +43,7 @@ document.addEventListener("DOMContentLoaded", function () {
 <div style="position: relative; z-index: 1; padding: 2rem; text-align: center;">
 
   <img src="/assets/images/protein.png" alt="Protein Structure" 
-       style="max-width: 400px; width: 100%; height: auto; margin-bottom: 1.5rem; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
+       style="max-width: 400px; width: 100%; height: auto; margin-bottom: 1.5rem;">
 
   <h1>Welcome to the Protein Engineering and Structural Genomics Group</h1>
   <p style="font-size: 1.2rem; max-width: 700px; margin: auto;">
