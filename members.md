@@ -36,14 +36,14 @@ Felipe Labio
 
 ## Alumini
 
-Victor Rusu, software engineer at CSCS (Switzerland)  
+Victor Rusu, Software Engineer at CSCS (Switzerland)  
 Carlos Cruz, Research Scientist at UCL (UK)  
 Elton Chaves, Research Scientist at CNPEM (Brazil)  
-Matheus Ferraz, NEC OncoImmunity AS (Norway)  
+Matheus Ferraz, Research Scientist at NEC OncoImmunity AS (Norway)  
 Catarina Cataldi, Master's student at University of Toronto (Canada)  
 Camila Adan, Postdoctoral Fellow, University of Sao Paulo (Brazil)  
 Antonio Fernando da Purificação Júnior, Lecturer at Santa Marcelina (Brazil)  
-Emerson Moreira, Lectuter at IFF-RS (Brazil)  
+Emerson Moreira, Lecturer at IFRS (Brazil)  
 Danilo Coelho, Associate Professor at UFPE (Brazil)  
 Laercio Pol-Fachin, Professor at Centro Universitário CESMAC (Brazil)  
 Eduardo Franca, Professor at UFU (Brazil)  
