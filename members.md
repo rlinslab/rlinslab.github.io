@@ -11,7 +11,7 @@ permalink: /members/
   </figure>
 
   <figure style="text-align: center;">
-    <img src="{{ '/images/group2.png' | relative_url }}" alt="group2" style="max-width: 350px; height: auto;" />
+    <img src="{{ '/images/group3.jpeg' | relative_url }}" alt="group2" style="max-width: 350px; height: auto;" />
   </figure>
 
 </div>
