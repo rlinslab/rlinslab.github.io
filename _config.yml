@@ -11,12 +11,13 @@ data_dir                 : _data
 author:
   avatar           : "Lins_fotoiam.jpg"
   name             : "Roberto Lins"
-  bio              : "Senior Research Scientist, Oswaldo Cruz Foundation"
+  bio              : "Senior Research Scientist, Oswaldo Cruz Foundation, CNPq Research Fellow"
   location         : "Recife, Brazil"
   employer         : "Oswaldo Cruz Foundation"
   email            : "roberto.neto@fiocruz.br"
   googlescholar    : "https://scholar.google.com/citations?user=xTaiAmcAAAAJ&hl=en"
   orcid            : "https://orcid.org/0000-0002-3983-8025"
+  lattes           : "http://lattes.cnpq.br/0935712216945804"
 
 # Publication Category
 publication_category:
