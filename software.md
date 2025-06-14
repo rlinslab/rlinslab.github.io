@@ -31,4 +31,4 @@ A software that calculates the effect of curvature of chemical interfaces
 
 [GROMOS](https://www.gromos.net/)
 ======
-A software that calculates the effect of curvature of chemical interfaces
+A software for classical biomolecular simulation
