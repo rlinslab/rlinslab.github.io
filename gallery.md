@@ -56,9 +56,9 @@ document.addEventListener("DOMContentLoaded", function () {
 </style>
 
 <div class="gallery-container">
-  <img src="{{ '/images/cover_rscmedchem.pdf' | relative_url }}" alt="cover_rsc">
-  <img src="{{ '/images/cover_jcc.pdf' | relative_url }}" alt="cover_jcc">
-  <img src="{{ '/images/cover_prl.pdf' | relative_url }}" alt="cover_prl">
+  <img src="{{ '/images/cover_rscmedchem.png' | relative_url }}" alt="cover_rsc">
+  <img src="{{ '/images/cover_jcc.png' | relative_url }}" alt="cover_jcc">
+  <img src="{{ '/images/cover_prl.png' | relative_url }}" alt="cover_prl">
   <img src="{{ '/images/cover_jms.png' | relative_url }}" alt="cover_jms">
   <img src="{{ '/images/cover_cen.png' | relative_url }}" alt="cover_cen">
   <img src="{{ '/images/cover_c4.png' | relative_url }}" alt="cover_c4">
