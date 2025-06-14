@@ -48,7 +48,7 @@ Felipe Labio
 
 ## Alumini (recent)
 
-[Victor Rusu]https://www.cscs.ch/publications/stories/2020/meet-the-staff-victor-holanda-rusu(), Senior HPC Application Engineer at CSCS (Switzerland)  
+[Victor Rusu](https://www.cscs.ch/publications/stories/2020/meet-the-staff-victor-holanda-rusu), Senior HPC Application Engineer at CSCS (Switzerland)  
 [Carlos Cruz](https://profiles.ucl.ac.uk/97203-carlos-henrique-bezerra-da-cruz/about), Research Fellow at UCL (UK)  
 Elton Chaves, Research Scientist at CNPEM (Brazil)  
 [Danilo Coelho](https://sigaa.ufpe.br/sigaa/public/docente/portal.jsf?siape=3382657), Associate Professor at UFPE (Brazil)  
