@@ -20,12 +20,12 @@ Education
 
 Work experience
 ======
-* Senior Research Scientist
-  * Aggeu Magalhaes Institute, Oswaldo Cruz Foundation
+* Senior Research Scientist, 2014 - present
+  * Aggeu Magalhaes Institute, Oswaldo Cruz Foundation, Brazil
 
-* Professor of Chemistry
-  * Federal University of Pernambuco
+* Professor of Chemistry, 2010 - 2014
+  * Federal University of Pernambuco, Brazil
 
-* Senior Research Scientist
-  * Pacific Northwest National Laboratory
+* Senior Research Scientist, 2005 - 2010
+  * Pacific Northwest National Laboratory, USA
   
