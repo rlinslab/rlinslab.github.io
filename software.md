@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-Here you will find a list of software we have developed or participated in the development
+Here you will find a list of software we have developed or participated in the development, including force field implementations
 
 [PBEE - Protein Binding Energy Estimator](https://github.com/chavesejf/PBEE)
 ======
@@ -29,4 +29,6 @@ A high performance complete computational chemistry package
 ======
 A software that calculates the effect of curvature of chemical interfaces
 
-
+[GROMOS](https://www.gromos.net/)
+======
+A software that calculates the effect of curvature of chemical interfaces
