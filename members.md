@@ -54,11 +54,18 @@ Elton Chaves, Research Scientist at CNPEM (Brazil)
 [Danilo Coelho](https://sigaa.ufpe.br/sigaa/public/docente/portal.jsf?siape=3382657), Associate Professor at UFPE (Brazil)  
 [Matheus Ferraz](https://matheusferraz.owlstown.net/), Research Scientist at NEC OncoImmunity AS (Norway)  
 Emerson Moreira, Lecturer at IFRS (Brazil)  
+Diogo Athayde, Clinical Studies Coordinator at NOVA Clinical Research Unit (Portugal)  
 Camila Adan, Postdoctoral Fellow, University of Sao Paulo (Brazil)  
 Antonio Fernando da Purificação Júnior, Lecturer at Santa Marcelina (Brazil)  
 Catarina Cataldi, Master's student at University of Toronto (Canada)  
 Laercio Pol-Fachin, Professor at Centro Universitário CESMAC (Brazil)  
 Eduardo Franca, Professor at UFU (Brazil)  
 Osmair Oliveira, Professor at IFSP (Brazil)  
-
   
+Joao Sartori, PhD student at IOC, Fiocruz (Brazil)  
+Andresa Messias, PhD student at University of Buenos Aires (Argentina)  
+Emmanuel Mhrous, undergraduate student in Computer Science at Princeton University (USA)  
+Victor Calebe, Master's student at ILMD, Fiocruz (Brazil)  
+  
+
+
