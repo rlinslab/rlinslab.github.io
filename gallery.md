@@ -15,8 +15,8 @@ permalink: /gallery/
 
 .gallery-container img {
   max-width: 300px;
-  width: 100%;
   height: auto;
+  object-fit: contain;
 }
 </style>
 
