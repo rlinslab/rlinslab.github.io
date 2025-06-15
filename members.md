@@ -16,7 +16,7 @@ permalink: /members/
 
 </div>
 
-## Leading Researchers
+## Principal Investigators
 
 [Roberto Lins](https://rlinslab.github.io/resume/)  
 [Isabelle Viana](https://orcid.org/0000-0003-4648-6635)  
