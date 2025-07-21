@@ -1,0 +1,47 @@
+; md-mm-nvt.mdp - used as input into grompp to generate egfp-mm-nvt.tpr
+define                  = -DPOSRES -DPOSRES_FC_BB=5000.0 -DPOSRES_FC_SC=5000.0 
+;-DDIHRES -DDIHRES_FC=4.0 ; position restrain the protein
+
+integrator  = md    ; MD using leap-frog integrator
+dt          = 0.002 ; 1fs time-step
+nsteps      = 500000; 100 ps simulation
+
+; Set output frequency to each step
+nstxout                  = 10000 ; Coordinates to trr
+nstvout                  = 10000 ; Coordinates to trr
+nstlog                   = 10000 ; Energies to md.log
+nstcalcenergy            = 1000  ; Energies to ener.edr
+nstenergy                = 1000  ; Energies to ener.edr
+
+; Set cut-offs
+rlist                    = 1.2
+coulombtype              = PME
+coulomb-modifier         = Potential-shift-Verlet
+rcoulomb-switch          = 1.0
+rcoulomb                 = 1.2
+vdwtype                  = Cut-off
+vdw-modifier             = Force-switch
+rvdw-switch              = 1.0
+rvdw                     = 1.2
+
+;Temperature coupling options
+tcoupl                   = v-rescale 
+nsttcouple               = 10
+tc-grps                  = SOLU SOLV
+tau-t                    = 0.1	0.1
+ref-t                    = 298	298
+
+; GENERATE VELOCITIES FOR STARTUP RUN
+gen-vel                  = yes
+gen-temp                 = 298 
+gen-seed                 = -1
+
+; Bond parameters
+continuation            = no        ; first dynamics run
+constraint_algorithm    = lincs     ; holonomic constraints 
+constraints             = h-bonds   ; bonds involving H are constrained
+lincs_iter              = 1         ; accuracy of LINCS
+lincs_order             = 4         ; also related to accuracy
+
+; CP2K QMMM parameters
+;qmmm-cp2k-active              = false

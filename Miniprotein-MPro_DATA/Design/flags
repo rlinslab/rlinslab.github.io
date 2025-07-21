@@ -1,0 +1,10 @@
+-in:file:s HB3.pdb
+-use_input_sc						
+-parser:protocol design_interface_monomer_versão04.xml
+-parser:script_vars hotspot=26A,30A  
+-parser:script_vars target_contact=146B,147B,157B,310B
+-ex1							# increase rotamer bins to include mean +- 1 standard deviation
+-ex2aro
+-nstruct 1
+-out:file:scorefile HB3_fdesign_test5.sc
+
