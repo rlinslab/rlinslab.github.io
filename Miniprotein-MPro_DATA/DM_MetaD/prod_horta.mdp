@@ -1,0 +1,73 @@
+; VARIOUS PREPROCESSING OPTIONS
+;define                  = -DPOSRES_CARB -DPOSRES_FC_BB=1000 -DPOSRES_FC_SC=0
+    ; RUN CONTROL PARAMETERS
+    integrator		= md		; leap-frog integrator
+    nsteps		= 500000000	; 0.002 * 50000000 = 100000 ps, 1000 ns
+    dt		        = 0.002		; 2 fs
+
+    ; OUTPUT CONTROL OPTIONS
+
+    nstxout		= 5000		; save coordinates every 2 ps
+    nstvout		= 5000		; save velocities every 2 ps
+    nstxtcout		= 5000		; xtc compressed trajectory output every 2 ps
+    nstenergy		= 5000		; save energies every 2 ps
+    nstlog		= 5000		; update log file every 2 ps
+    nstcalcenergy       = 100
+
+    ; NEIGHBOR SEARCHING PARAMETERS
+    ; cutoff-scheme 	= verlet
+    ns_type		= grid		; search neighboring grid cells
+    nstlist		= 20		; 10 fs
+    rlist		= 1.2		; short-range neighborlist cutoff (in nm) usar 1.2 segundo bruno horta
+    rcoulomb		= 1.2		; short-range electrostatic cutoff (in nm)
+    rvdw		= 1.2		; short-range van der Waals cutoff (in nm)
+ 
+; PROTOCOLO BRUNO, SEGUNDO MARCELO
+; coulombtype = PME
+; vdw-type = cutoff
+; rlist = 1.2
+; rcoulomb = 1.2
+; rvdw = 1.2
+
+    ; OPTIONS FOR ELECTROSTATICS AND VDW
+    coulombtype     = PME
+    pme_order       = 4
+    fourierspacing  = 0.12
+    vdw-type        = cut-off ; PME
+
+    ; Temperature coupling
+    tcoupl		= V-rescale	; modified Berendsen thermostat
+    tc-grps		= SOLU SOLV ; two coupling groups - more accurate
+    tau_t		= 0.1	0.1		; time constant, in ps
+    ref_t		= 298   298	; reference temperature, one for each group, in K
+
+    ; Dispersion correction
+    DispCorr		= EnerPres	; account for cut-off vdW scheme
+
+    ; Pressure coupling
+
+    pcoupl		= Parrinello-Rahman	; Pressure coupling on in NPT
+    pcoupltype		= isotropic		; uniform scaling of box vectors
+    tau_p		= 2.0			; time constant, in ps
+    ref_p		= 1.0			; reference pressure, in bar
+    compressibility 	= 4.5e-5		; isothermal compressibility of water, bar^-1
+
+    ; GENERATE VELOCITIES FOR STARTUP RUN
+
+    gen_vel                 = no    ; Assign velocities to particles by taking them randomly from a Maxwell distribution
+
+
+    ; OPTIONS FOR BONDS
+
+    continuation	= yes 		; Restarting after NPT
+    constraint_algorithm = LINCS	; holonomic constraints
+    constraints	= h-bonds ; h-bonds (even heavy atom-H bonds) constrained
+;    lincs_iter	= 1		; accuracy of LINCS
+;    lincs_order	= 4		; also related to accuracy
+  
+; 
+nstcomm                 = 100
+comm_mode               = Linear
+comm_grps               = SOLU SOLV
+; 
+;refcoord-scaling	= all

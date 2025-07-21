@@ -1,0 +1,116 @@
+<ROSETTASCRIPTS>
+	<SCOREFXNS>
+		<ScoreFunction name="ref2015" weights="ref2015"/>		
+	</SCOREFXNS>
+	<RESIDUE_SELECTORS>
+		<!-- CHAINS -->
+		<Chain name="chainA" chains="A"/>
+		<Chain name="chainB" chains="E"/>
+		
+		<Neighborhood name="interface_chA" selector="chainB" distance="10.0" />
+		<Neighborhood name="interface_chB" selector="chainA" distance="10.0" />
+		<And name="AB_interface" selectors="interface_chA,interface_chB" />
+		<Not name="Not_interface" selector="AB_interface" />
+		<And name="actual_interface_chA" selectors="AB_interface,chainA" />
+		<And name="actual_interface_chB" selectors="AB_interface,chainB" />
+		<And name="chainB_not_interface" selectors="Not_interface,chainB" />
+		
+		<ResidueName name="pro_and_gly_positions" residue_name3="PRO,GLY" />
+		<!-- Layer Design -->
+	    <Layer name="surface" select_core="false" select_boundary="false" select_surface="true" use_sidechain_neighbors="true"/>
+	    <Layer name="boundary" select_core="false" select_boundary="true" select_surface="false" use_sidechain_neighbors="true"/>
+	    <Layer name="core" select_core="true" select_boundary="false" select_surface="false" use_sidechain_neighbors="true"/>
+	    <SecondaryStructure name="sheet" overlap="0" minH="3" minE="2" include_terminal_loops="false" use_dssp="true" ss="E"/>
+	    <SecondaryStructure name="entire_loop" overlap="0" minH="3" minE="2" include_terminal_loops="true" use_dssp="true" ss="L"/>
+	    <SecondaryStructure name="entire_helix" overlap="0" minH="3" minE="2" include_terminal_loops="false" use_dssp="true" ss="H"/>
+	    <And name="helix_cap" selectors="entire_loop">
+	    	<PrimarySequenceNeighborhood lower="1" upper="0" selector="entire_helix"/>
+	    </And>
+	    <And name="helix_start" selectors="entire_helix">
+	    	<PrimarySequenceNeighborhood lower="0" upper="1" selector="helix_cap"/>
+	    </And>
+	    <And name="helix" selectors="entire_helix">
+	    	<Not selector="helix_start"/>
+	    </And>
+	    <And name="loop" selectors="entire_loop">
+	    	<Not selector="helix_cap"/>
+	    </And>
+	</RESIDUE_SELECTORS>
+	<TASKOPERATIONS>
+		<!-- Layer Design -->
+	    <DesignRestrictions name="layer_design">
+	    	<Action selector_logic="surface AND helix_start" aas="DEHKPQR"/>
+	    	<Action selector_logic="surface AND helix"		aas="EHKQR"/>
+	    	<Action selector_logic="surface AND sheet"		aas="EHKNQRST"/>
+	    	<Action selector_logic="surface AND loop"		aas="DEGHKNPQRST"/>
+	    	<Action selector_logic="boundary AND helix_start"	aas="ADEHIKLMNPQRSTVY"/> # Como discutido anteriormente, o W foi retirado do boundary p/ não dificultar o folding. 
+	    	<Action selector_logic="boundary AND helix"		aas="ADEHIKLMNQRSTVY"/> ***
+	    	<Action selector_logic="boundary AND sheet"		aas="DEFHIKLMNQRSTVY"/> *** 
+	    	<Action selector_logic="boundary AND loop"		aas="ADEFGHIKLMNPQRSTVWY"/>
+	    	<Action selector_logic="core AND helix_start"	aas="AFILMPVWY"/>
+	    	<Action selector_logic="core AND helix"			aas="AFILMVWY"/>
+	    	<Action selector_logic="core AND sheet"			aas="FILMVWY"/>
+	    	<Action selector_logic="core AND loop"			aas="AFGILMPVWY"/>
+	    	<Action selector_logic="helix_cap"			    aas="DNST"/>
+	    </DesignRestrictions>
+	   <!-- Interface -->       
+       <OperateOnResidueSubset name="restrict_to_interface" selector="Not_interface">
+            <PreventRepackingRLT/>
+        </OperateOnResidueSubset>
+       
+       <RestrictToInterfaceVector name="rtiv" chain1_num="1" chain2_num="2" CB_dist_cutoff="10.0" nearby_atom_cutoff="5.5" vector_angle_cutoff="75" vector_dist_cutoff="9.0" />
+	   <ProteinProteinInterfaceUpweighter name="up_ppi" interface_weight="3" skip_loop_in_chain="A" />
+		<!-- Repack -->
+		<RestrictToRepacking name="rtr" /> 
+		<PreventResiduesFromRepacking name="restrict_hotspot" residues="%%hotspot%%" /> 
+		<InitializeFromCommandline name="init"/>
+        <!-- Restrict residues  --> 
+	    <DisallowIfNonnative name="disallow_GLY" resnum="0" disallow_aas="G" />
+	    <DisallowIfNonnative name="disallow_PRO" resnum="0" disallow_aas="P" />
+	    <OperateOnResidueSubset name="restrict_PRO_GLY" selector="pro_and_gly_positions">
+			<PreventRepackingRLT/>
+	    </OperateOnResidueSubset>
+	    <!-- Restrict ChainB  --> 
+	    <OperateOnResidueSubset name="restrict_target" selector="chainB">
+            <PreventRepackingRLT/>
+        </OperateOnResidueSubset>
+        PreventResiduesFromRepacking name="restrict_target2" residues="%%target_contact%%" /> 
+        <!-- Rotamers -->
+        <IncludeCurrent name="current" />
+        <LimitAromaChi2 name="limitchi2" chi2max="110" chi2min="70" include_trp="True" />
+        <!-- Loops -->
+        <ConsensusLoopDesign name="consensus_loop" include_adjacent_residues="true"/> ######
+	</TASKOPERATIONS>
+
+	<FILTERS>
+		<!-- Interface Metrics -->
+        <Sasa name="interface_buried_sasa" confidence="0" />
+        <ShapeComplementarity name="Sc" min_sc="0" write_int_area="1" jump="1" confidence="0" />
+		<Ddg name="ddg" scorefxn="ref2015" threshold="0" jump="1" repeats="5" repack="1"  repack_bound="0" confidence="0" />
+		<ContactMolecularSurface name="contact_area_target" verbose="0" distance_weight="0.5" confidence="0" target_selector="chainB" binder_selector="chainA" />
+	</FILTERS> 
+	<MOVERS> 
+		<!-- FastDesign monomer -->
+        <FastDesign name="FDesign_monomer" scorefxn="ref2015" repeats="5" task_operations="init,current,limitchi2,layer_design,restrict_hotspot,disallow_GLY,disallow_PRO,restrict_PRO_GLY,restrict_target,consensus_loop" relaxscript="MonomerDesign2019" batch="false" ramp_down_constraints="false" cartesian="false" bondangle="false" bondlength="false" min_type="dfpmin_armijo_nonmonotone" />
+       	<!-- FastDesign interface --> 
+        <FastDesign name="FDesign_interface" scorefxn="ref2015" repeats="5" task_operations="init,current,limitchi2,layer_design,restrict_hotspot,disallow_GLY,disallow_PRO,restrict_PRO_GLY,restrict_to_interface,rtiv,restrict_target,consensus_loop,up_ppi" relaxscript="InterfaceDesign2019"  batch="false" ramp_down_constraints="false" cartesian="false" bondangle="false" bondlength="false" min_type="dfpmin_armijo_nonmonotone" />
+        <!-- FastRelax -->
+        <FastRelax name="FastRelax" scorefxn="ref2015" repeats="1" batch="false" ramp_down_constraints="false" cartesian="false" bondangle="false" bondlength="false" min_type="dfpmin_armijo_nonmonotone" task_operations="init,current,limitchi2,rtr,rtiv,restrict_hotspot"/>
+        <!-- Interface Analyzer -->
+		<InterfaceAnalyzerMover name="ifa" scorefxn="ref2015" packstat="1" pack_separated="1" pack_input="1" tracer="0" interface_sc="1" interface="A_B"  />
+	</MOVERS>
+	<PROTOCOLS>
+        <!--Design Protocol-->
+		<Add mover="FDesign_monomer" />
+		<Add mover="FDesign_interface"/>
+		<Add mover="FastRelax" />
+		<!--Interface Analyzer-->
+		<Add mover="ifa" />
+		<!--Filters interface-->
+		<Add filter="interface_buried_sasa" />
+		<Add filter="Sc" />
+        <Add filter="contact_area_target"/>
+		<Add filter="ddg" />
+        </PROTOCOLS>
+	<OUTPUT scorefxn="ref2015" />
+</ROSETTASCRIPTS>
