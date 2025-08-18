@@ -49,6 +49,13 @@
   year: 2025
   doi: 10.1021/acs.jcim.4c01641
   url: http://dx.doi.org/10.1021/acs.jcim.4c01641
+- title: Human outbreaks of a novel reassortant Oropouche virus in the Brazilian Amazon region
+  authors:
+  - Naveca FG, Almeida TAP, Souza V, Nascimento V, Silva D, Nascimento F, Mejía M, Oliveira YS, Rocha L, Xavier N, Lopes J, Maito R, Meneses C, Amorim T, Fé L, Camelo FS, Silva SCA, Melo AX, Fernandes LG, Oliveira MAA, Arcanjo AR, Araújo G, André Júnior W, Carvalho RLC, Rodrigues R, Albuquerque S, Mattos C, Silva C, Linhares A, Rodrigues T, Mariscal F, Morais MA, Presibella MM, Marques NFQ, Paiva A, Ribeiro K, Vieira D, Queiroz JADS, Passos-Silva AM, Abdalla L, Santos JH, Figueiredo RMP, Cruz ACR, Casseb LN, Chiang JO, Frutuoso LV, Rossi A, Freitas L, Campos TL, Wallau GL, Moreira E, Lins Neto RD, Alexander LW, Sun Y, Filippis AMB, Gräf T, Arantes I, Bento AI, Delatorre E, Bello G.
+  journal: Nature Medicine
+  year: 2024
+  doi: 10.1038/s41591-024-03300-3
+  url: https://doi.org/10.1038/s41591-024-03300-3
 - title: 'Structure‐based computational design of antibody mimetics: challenges and
     perspectives'
   authors:
@@ -63,23 +70,6 @@
   year: 2024
   doi: 10.1002/2211-5463.13855
   url: http://dx.doi.org/10.1002/2211-5463.13855
-- title: Design of nanobody targeting SARS-CoV-2 spike glycoprotein using CDR-grafting
-    assisted by molecular simulation and machine learning
-  authors:
-  - Ferraz, Matheus V. F.
-  - Adan, W. Camilla S.
-  - Lima, Tayná E.
-  - Santos, Adriele J. C.
-  - de Paula, Sérgio O.
-  - Dhalia, Rafael
-  - Wallau, Gabriel L.
-  - Wade, Rebecca C.
-  - Viana, Isabelle F. T.
-  - Lins, Roberto D.
-  journal: null
-  year: 2024
-  doi: 10.1101/2024.09.30.615772
-  url: http://dx.doi.org/10.1101/2024.09.30.615772
 - title: Evolutionary deletions within the SARS-CoV-2 genome as signature trends for
     virus fitness and adaptation
   authors:
@@ -127,19 +117,6 @@
   year: 2024
   doi: 10.1590/0001-376520242023089
   url: http://dx.doi.org/10.1590/0001-376520242023089
-- title: Prediction of Absolute Protein-Protein Binding Free Energy by a Super Learner
-    Model
-  authors:
-  - Chaves, Elton
-  - Mhrous, Emmanuel
-  - Nascimento-Filho, Manasses
-  - Cruz, Carlos
-  - Ferraz, Matheus
-  - Lins, Roberto
-  journal: null
-  year: 2023
-  doi: 10.26434/chemrxiv-2023-zq1nj
-  url: http://dx.doi.org/10.26434/chemrxiv-2023-zq1nj
 - title: 'Inhibition of 3-Hydroxykynurenine Transaminase from Aedes aegypti and Anopheles
     gambiae: A Mosquito-Specific Target to Combat the Transmission of Arboviruses'
   authors:
