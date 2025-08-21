@@ -104,16 +104,16 @@
 - title: Determination of prognostic markers for COVID-19 disease severity using routine
     blood tests and machine learning
   authors:
-  - LIMA, TAYNÁ E.
-  - FERRAZ, MATHEUS V.F.
-  - BRITO, CARLOS A.A.
-  - XIMENES, PAMELLA B.
-  - MARIZ, CAROLLINE A.
-  - BRAGA, CYNTHIA
-  - WALLAU, GABRIEL L.
-  - VIANA, ISABELLE F.T.
-  - LINS, ROBERTO D.
-  journal: Anais da Academia Brasileira de Ciências
+  - Lima, TE.
+  - Ferraz, MFV.
+  - Brito, CAA.
+  - Ximenes, PB.
+  - Mariz, CA.
+  - Braga, C
+  - Wallau, GL.
+  - Viana, IFT.
+  - Lins, RD.
+  journal: Ann. Acad. Bras. Ciênc.
   year: 2024
   doi: 10.1590/0001-376520242023089
   url: http://dx.doi.org/10.1590/0001-376520242023089
@@ -135,7 +135,7 @@
     Energy of Binding from Rosetta calculated Properties
   authors:
   - Matheus Ferraz
-  - Jos{\'{e}} Soares
+  - Jose Soares
   - Roberto Lins
   - Erico Teixeira
   journal: Physical Chemistry Chemical Physics
@@ -150,9 +150,9 @@
   - Diogo Athayde
   - W. Camila Adan
   - Licya Samara Silva Xavier
-  - Margarida Archer Fraz{\~{a}}o
+  - Margarida Archer Frazao
   - Roberto Lins
-  journal: Molecular Systems Design {\&}amp$\mathsemicolon$ Engineering
+  journal: Molecular Systems Design & Engineering
   year: 2023
   doi: 10.1039/d2me00170e
   url: https://doi.org/10.1039%2Fd2me00170e
@@ -188,7 +188,7 @@
   year: 2022
   doi: 10.1007/s10719-022-10061-z
   url: https://doi.org/10.1007%2Fs10719-022-10061-z
-- title: Identification of potential $\less$i$\greater$Staphylococcus aureus$\less$/i$\greater$
+- title: Identification of potential Staphylococcus aureus
     dihydrofolate reductase inhibitors using {QSAR}, molecular docking, dynamics simulations
     and free energy calculation
   authors:
@@ -213,43 +213,43 @@
   - Felipe Gomes Naveca
   - Valdinete Nascimento
   - Victor Souza
-  - Andr{\'{e}} de Lima Corado
+  - Andre de Lima Corado
   - Fernanda Nascimento
   - George Silva
-  - Matilde Contreras Mej{\'{\i}}a
-  - Maria J{\'{u}}lia Brand{\~{a}}o
-  - '{\''{A}}gatha Costa'
-  - D{\'{e}}bora Duarte
+  - Matilde Contreras Mejia
+  - Maria Julia Brandao
+  - Agatha Costa
+  - Debora Duarte
   - Karina Pessoa
   - Michele Jesus
-  - Luciana Gon{\c{c}}alves
+  - Luciana Goncalves
   - Cristiano Fernandes
   - Tirza Mattos
   - Ligia Abdalla
-  - Jo{\~{a}}o Hugo Santos
+  - Joao Hugo Santos
   - Alex Martins
-  - Fabiola Mendon{\c{c}}a Chui
+  - Fabiola Mendonca Chui
   - Fernando Fonseca Val
   - Gisely Cardoso de Melo
-  - Mariana Sim{\~{a}}o Xavier
+  - Mariana Simao Xavier
   - Vanderson de Souza Sampaio
-  - Maria Paula Mour{\~{a}}o
-  - Marcus Vin{\'{\i}}cius Lacerda
-  - '{\''{E}}rika Lopes Rocha Batista'
-  - Alessandro Leonardo {\'{A}}lvares Magalh{\~{a}}es
-  - Nath{\^{a}}nia D{\'{a}}billa
+  - Maria Paula Mourao
+  - Marcus Vinicius Lacerda
+  - Erika Lopes Rocha Batista
+  - Alessandro Leonardo Alvares Magalhaes
+  - Nathania Dabilla
   - Lucas Carlos Gomes Pereira
   - Fernando Vinhal
   - Fabio Miyajima
   - Fernando Braga Stehling Dias
   - Eduardo Ruback dos Santos
-  - Danilo Co{\^{e}}lho
+  - Danilo Coelho
   - Matheus Ferraz
   - Roberto Lins
   - Gabriel Luz Wallau
   - Edson Delatorre
   - Tiago Gräf
-  - Marilda Mendon{\c{c}}a Siqueira
+  - Marilda Mendonca Siqueira
   - Paola Cristina Resende
   - Gonzalo Bello
   journal: Microbiology Spectrum
@@ -259,13 +259,13 @@
 - title: Are Zika virus cross-reactive antibodies against aquaporin-4 associated to
     Neuromyelitis Optica Spectrum Disorder?
   authors:
-  - Jo{\~{a}}o P.M. Brainer-Lima
+  - Joao P.M. Brainer-Lima
   - Bruno H.S. Leite
-  - Catarina M.C.S. de Ara{\'{u}}jo
+  - Catarina M.C.S. de Araujo
   - Rafael Dhalia
-  - Danilo F. C{\^{o}}elho
+  - Danilo F. Coelho
   - Franciane M.E. Teixeira
-  - Anna Cl{\'{a}}udia C.C. Branco
+  - Anna Claudia C.C. Branco
   - Maria N. Sato
   - Ernesto T.A. Marques
   - Roberto D. Lins
@@ -284,18 +284,18 @@
   - Filipe Zimmer Dezordi
   - Matheus V. F Ferraz
   - Emerson G Moreira
-  - Danilo F Co{\^{e}}lho
+  - Danilo F Coelho
   - Fernando Couto Motta
-  - Anna Carolina Dias Paix{\~{a}}o
+  - Anna Carolina Dias Paixao
   - Luciana Appolinario
   - Renata Serrano Lopes
-  - Ana Carolina da Fonseca Mendon{\c{c}}a
+  - Ana Carolina da Fonseca Mendonca
   - Alice Sampaio Barreto da Rocha
   - Valdinete Nascimento
   - Victor Souza
   - George Silva
   - Fernanda Nascimento
-  - Lidio Gon{\c{c}}alves Lima Neto
+  - Lidio Goncalves Lima Neto
   - Fabiano Vieira da Silva
   - Irina Riediger
   - Maria do Carmo Debur
@@ -309,10 +309,10 @@
   - Adriano Abbud
   - Claudio Sacchi
   - Ricardo Khouri
-  - Andr{\'{e}} Felipe Leal Bernardes
+  - Andre Felipe Leal Bernardes
   - Edson Delatorre
   - Tiago Gräf
-  - Marilda Mendon{\c{c}}a Siqueira
+  - Marilda Mendonca Siqueira
   - Gonzalo Bello
   - Gabriel L Wallau
   journal: Virus Evolution
@@ -374,18 +374,18 @@
   - Filipe Zimmer Dezordi
   - Matheus V. F. Ferraz
   - Emerson G. Moreira
-  - Danilo F. Co{\^{e}}lho
+  - Danilo F. Coelho
   - Fernando Couto Motta
-  - Anna Carolina Dias Paix{\~{a}}o
+  - Anna Carolina Dias Paixao
   - Luciana Appolinario
   - Renata Serrano Lopes
-  - Ana Carolina da Fonseca Mendon{\c{c}}a
+  - Ana Carolina da Fonseca Mendonca
   - Alice Sampaio Barreto da Rocha
   - Valdinete Nascimento
   - Victor Souza
   - George Silva
   - Fernanda Nascimento
-  - Lidio Gon{\c{c}}alves Lima Neto
+  - Lidio Goncalves Lima Neto
   - Fabiano Vieira da Silva
   - Irina Riediger
   - Maria do Carmo Debur
@@ -399,10 +399,10 @@
   - Adriano Abbud
   - Claudio Sacchi
   - Ricardo Khouri
-  - Andr{\'{e}} Felipe Leal Bernardes
+  - Andre Felipe Leal Bernardes
   - Edson Delatorre
   - Tiago Gräf
-  - Marilda Mendon{\c{c}}a Siqueira
+  - Marilda Mendonca Siqueira
   - Gonzalo Bello
   - Gabriel L Wallau
   journal: null
@@ -417,15 +417,15 @@
   - Felix Loeffler
   - Isabelle F. T. Viana
   - Nico Fischer
-  - Danilo F. Coe{\^}lho
+  - Danilo F. Coelho
   - Carolina Santos
   - Antonio Purificacao Jr
   - Catarina Araujo
   - Bruno Leite
-  - Ricardo Dur{\~{a}}es-Carvalho
+  - Ricardo Duraes-Carvalho
   - Thereza Magalhaes
   - Clarice Morais
-  - Marli Ten{\'{o}}rio Cordeiro
+  - Marli Tenorio Cordeiro
   - Roberto Lins
   - Ernesto T.A. Marques
   - Thomas Jaenisch
@@ -448,13 +448,13 @@
   - Felix F. Loeffler
   - Isabelle F. T. Viana
   - Nico Fischer
-  - Danilo F. Co{\^{e}}lho
+  - Danilo F. Coelho
   - Carolina S. Silva
-  - Ant{\^{o}}nio F. Purifica{\c{c}}{\~{a}}o
-  - Catarina M. C. S. Ara{\'{u}}jo
+  - Antonio F. Purificacao
+  - Catarina M. C. S. Araujo
   - Bruno H. S. Leite
-  - Ricardo Dur{\~{a}}es-Carvalho
-  - Tereza Magalh{\~{a}}es
+  - Ricardo Duraes-Carvalho
+  - Tereza Magalhaes
   - Clarice N. L. Morais
   - Marli T. Cordeiro
   - Roberto D. Lins
@@ -469,7 +469,7 @@
   authors:
   - Matheus V. F. Ferraz
   - Emerson G. Moreira
-  - Danilo F. Co{\^{e}}lho
+  - Danilo F. Coelho
   - Gabriel L. Wallau
   - Roberto D. Lins
   journal: Chemical Communications
@@ -503,7 +503,7 @@
   - Denys E. S. Santos
   - Marcelo D. Poleto
   - Marcelo M. Galheigo
-  - Ant{\^{o}}nio T. A. Gomes
+  - Antonio T. A. Gomes
   - Hugo Verli
   - Thereza A. Soares
   - Roberto D. Lins
@@ -515,15 +515,15 @@
     Haplotypes Are Observed in the Arbovirus-Related Neurological Syndromes
   authors:
   - Paulin Sonon
-  - Maria L{\'{u}}cia Brito Ferreira
+  - Maria Lucia Brito Ferreira
   - Renata Santos Almeida
   - Neifi Hassan Saloum Deghaide
   - Glauco Henrique Willcox
-  - Elizabeth Lima Guimar{\~{a}}es
-  - Ant{\^{o}}nio Fernando da Purifica{\c{c}}{\~{a}}o J{\'{u}}nior
-  - Marli Ten{\'{o}}rio Cordeiro
+  - Elizabeth Lima Guimaraes
+  - Antonio Fernando da Purificacao Junior
+  - Marli Tenorio Cordeiro
   - Carlos Alexandre Antunes de Brito
-  - Maria de F{\'{a}}tima Milit{\~{a}}o de Albuquerque
+  - Maria de Fatima Militao de Albuquerque
   - Roberto D Lins
   - Eduardo A Donadi
   - Norma Lucena-Silva
@@ -683,50 +683,10 @@
   year: 2020
   doi: 10.1007/978-3-030-65775-8_9
   url: https://doi.org/10.1007%2F978-3-030-65775-8_9
-- title: 'Study protocol for the multicentre cohorts of Zika virus infection in pregnant
-    women, infants, and acute clinical cases in Latin America and the Caribbean: the
-    {ZIKAlliance} consortium'
-  authors:
-  - Vivian I. Avelino-Silva
-  - ''
-  - Philippe Mayaud
-  - Adriana Tami
-  - Maria C. Miranda
-  - Kerstin D. Rosenberger
-  - Neal Alexander
-  - Luis Nacul
-  - Aluisio Segurado
-  - Moritz Pohl
-  - Sarah Bethencourt
-  - Luis A. Villar
-  - Isabelle F. T. Viana
-  - Renata Rabello
-  - Carmen Soria
-  - Silvia P. Salgado
-  - Eduardo Gotuzzo
-  - Mar{\'{\i}}a G. Guzm{\'{a}}n
-  - Pedro A. Mart{\'{\i}}nez
-  - Hugo L{\'{o}}pez-Gatell
-  - Jennifer Hegewisch-Taylor
-  - Victor H. Borja-Aburto
-  - Cesar Gonzalez
-  - Eduardo M. Netto
-  - Paola M. Saba Villarroel
-  - Bruno Hoen
-  - Patr{\'{\i}}cia Brasil
-  - Ernesto T. A. Marques
-  - Barry Rockx
-  - Marion Koopmans
-  - Xavier de Lamballerie
-  - Thomas Jaenisch
-  journal: '{BMC} Infectious Diseases'
-  year: 2019
-  doi: 10.1186/s12879-019-4685-9
-  url: https://doi.org/10.1186%2Fs12879-019-4685-9
 - title: The influence of biotinylation on the ability of a computer designed protein
     to detect B-cells producing anti-{HIV}-1 2F5 antibodies
   authors:
-  - Danilo F. Co{\^{e}}lho
+  - Danilo F. Coelho
   - Matheus V.F. Ferraz
   - Ernesto T.A. Marques
   - Roberto D. Lins
@@ -738,7 +698,7 @@
 - title: Influence of directional positive Darwinian selection-driven evolution on
     arboviruses Dengue and Zika virulence and pathogenesis
   authors:
-  - Ricardo Dur{\~{a}}es-Carvalho
+  - Ricardo Duraes-Carvalho
   - Louisa F. Ludwig-Begall
   - Marco Salemi
   - Roberto D. Lins
@@ -751,8 +711,8 @@
     {ABH} histo-blood group saccharide in a type specific manner
   authors:
   - Isadora A. Oliveira
-  - La{\'{e}}rcio Pol-Fachin
-  - Sebasti{\~{a}}o T. de Carvalho
+  - Laercio Pol-Fachin
+  - Sebastiao T. de Carvalho
   - Roberto D. Lins
   - Thereza A. Soares
   - Ronaldo Mohana-Borges
@@ -796,7 +756,7 @@
 - title: 'Aromatic Rings Commonly Used in Medicinal Chemistry: Force Fields Comparison
     and Interactions With Water Toward the Design of New Chemical Entities'
   authors:
-  - Marcelo D. Pol{\^{e}}to
+  - Marcelo D. Poleto
   - Victor H. Rusu
   - Bruno I. Grisci
   - Marcio Dorn
@@ -844,10 +804,10 @@
     for Anti-{NS}1 Antibody Discrimination between Zika and Dengue Viruses
   authors:
   - Marjorie C. L. C. Freire
-  - La{\'{e}}rcio Pol-Fachin
-  - Danilo F. Co{\^{e}}lho
+  - Laercio Pol-Fachin
+  - Danilo F. Coelho
   - Isabelle F. T. Viana
-  - Tereza Magalh{\~{a}}es
+  - Tereza Magalhaes
   - Marli T. Cordeiro
   - Nico Fischer
   - Felix F. Loeffler
