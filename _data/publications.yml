@@ -338,101 +338,6 @@
   year: 2021
   doi: 10.3390/jof7060424
   url: http://dx.doi.org/10.3390/jof7060424
-- title: SARS-CoV-2 VOCs Immune Evasion from Previously Elicited Neutralizing Antibodies
-    Is Mainly Driven by Lower Cross-Reactivity Due to Spike RBD Electrostatic Surface
-    Changes
-  authors:
-  - Ferraz, Matheus
-  - MOREIRA, EMERSON
-  - Coêlho, Danilo F.
-  - Wallau, Gabriel
-  - Lins, Roberto
-  journal: null
-  year: 2021
-  doi: 10.26434/chemrxiv.14343743.v1
-  url: http://dx.doi.org/10.26434/chemrxiv.14343743.v1
-- title: SARS-CoV-2 VOCs Immune Evasion from Previously Elicited Neutralizing Antibodies
-    Is Mainly Driven by Lower Cross-Reactivity Due to Spike RBD Electrostatic Surface
-    Changes
-  authors:
-  - Ferraz, Matheus
-  - MOREIRA, EMERSON
-  - Coêlho, Danilo F.
-  - Wallau, Gabriel
-  - Lins, Roberto
-  journal: null
-  year: 2021
-  doi: 10.26434/chemrxiv.14343743.v1
-  url: http://dx.doi.org/10.26434/chemrxiv.14343743.v1
-- title: The ongoing evolution of variants of concern and interest of {SARS}-{CoV}-2
-    in Brazil revealed by convergent indels in the amino (N)-terminal domain of the
-    Spike protein
-  authors:
-  - Paola Cristina Resende
-  - Felipe G Naveca
-  - Roberto D. Lins
-  - Filipe Zimmer Dezordi
-  - Matheus V. F. Ferraz
-  - Emerson G. Moreira
-  - Danilo F. Coelho
-  - Fernando Couto Motta
-  - Anna Carolina Dias Paixao
-  - Luciana Appolinario
-  - Renata Serrano Lopes
-  - Ana Carolina da Fonseca Mendonca
-  - Alice Sampaio Barreto da Rocha
-  - Valdinete Nascimento
-  - Victor Souza
-  - George Silva
-  - Fernanda Nascimento
-  - Lidio Goncalves Lima Neto
-  - Fabiano Vieira da Silva
-  - Irina Riediger
-  - Maria do Carmo Debur
-  - Anderson Brandao Leite
-  - Tirza Mattos
-  - Cristiano Fernandes da Costa
-  - Felicidade Mota Pereira
-  - Cliomar Alves dos Santos
-  - Darcita Buerger Rovaris
-  - Sandra Bianchini Fernandes
-  - Adriano Abbud
-  - Claudio Sacchi
-  - Ricardo Khouri
-  - Andre Felipe Leal Bernardes
-  - Edson Delatorre
-  - Tiago Gräf
-  - Marilda Mendonca Siqueira
-  - Gonzalo Bello
-  - Gabriel L Wallau
-  journal: null
-  year: 2021
-  doi: 10.1101/2021.03.19.21253946
-  url: https://doi.org/10.1101%2F2021.03.19.21253946
-- title: Identification of a Zika {NS}2B Epitope for Which Absence of {IgG} Response
-    Is Associated with Severe Neurological Symptoms and the Design of a Biomarker
-    Capable of Discriminatory Diagnostics Between Severe and Non4 Severe Clinical
-    Phenotypes
-  authors:
-  - Felix Loeffler
-  - Isabelle F. T. Viana
-  - Nico Fischer
-  - Danilo F. Coelho
-  - Carolina Santos
-  - Antonio Purificacao Jr
-  - Catarina Araujo
-  - Bruno Leite
-  - Ricardo Duraes-Carvalho
-  - Thereza Magalhaes
-  - Clarice Morais
-  - Marli Tenorio Cordeiro
-  - Roberto Lins
-  - Ernesto T.A. Marques
-  - Thomas Jaenisch
-  journal: null
-  year: 2021
-  doi: 10.26434/chemrxiv.14170439.v1
-  url: https://doi.org/10.26434%2Fchemrxiv.14170439.v1
 - title: Characterizing Binding Kinetics and Thermodynamics of Computer-Designed Nanobodies
     Targeting {SARS}-{CoV}-2 {RBD
   authors:
@@ -531,16 +436,6 @@
   year: 2020
   doi: 10.1093/infdis/jiaa764
   url: https://doi.org/10.1093%2Finfdis%2Fjiaa764
-- title: Unveiling the Influence of Nanobodies Dynamic Properties on Function and
-    Antigen Binding Energy
-  authors:
-  - Wenny Camilla dos Santos Adan
-  - Matheus Vitor Ferreira Ferraz
-  - Roberto Lins
-  journal: null
-  year: 2020
-  doi: 10.26226/morressier.5f6c5f439b74b699bf390b30
-  url: https://doi.org/10.26226%2Fmorressier.5f6c5f439b74b699bf390b30
 - title: 'NWChem: Past, present, and future'
   authors:
   - Aprà, E.
@@ -679,7 +574,7 @@
   - Matheus Vitor Ferreira Ferraz
   - Wenny Camilla dos Santos Adan
   - Roberto Dias Lins
-  journal: null
+  journal: Lecture Notes in Computer Science, 12558. Springer, Cham.
   year: 2020
   doi: 10.1007/978-3-030-65775-8_9
   url: https://doi.org/10.1007%2F978-3-030-65775-8_9
