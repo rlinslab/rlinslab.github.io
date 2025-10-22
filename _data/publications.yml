@@ -1,3 +1,34 @@
+- title: De Novo-Designed Miniprotein Inhibits the Enzymatic Activity of the SARS-CoV-2 Main Protease
+  authors:
+  - Lima, Tayná E.
+  - Moreira, Emerson G.
+  - Coelho, Danilo F.
+  - Cruz, Carlos H.B.
+  - Dhalia, Rafael
+  - Leite, Bruno H.S.
+  - Xavier, Licya S.
+  - Wallau, Gabriel L.
+  - Viana, Isabelle F.T.
+  - Lins, Roberto D.
+  journal: Journal of Chemical Information and Modeling
+  year: 2025
+  doi: 10.1021/acs.jcim.5c01708
+  url: https://pubs.acs.org/doi/10.1021/acs.jcim.5c01708
+- title: Serological analysis of COVID-19 patients highlights cross-reactivity of antibodies with the HIV-1 2F5 epitope
+  authors:
+  - Lima, Tayná E.
+  - Brito, Carlos A.A
+  - Gil, Laura H.V.G.
+  - Dhalia, Rafael
+  - Teixeira, Franciane M.E.
+  - Sato, Maria N.
+  - Wallau, Gabriel L.
+  - Lins, Roberto D.
+  - Viana, Isabelle F.T.
+  journal: Journal of Clinical Virology 
+  year: 2025
+  doi: 10.1016/j.jcv.2025.105880
+  url: https://doi.org/10.1016/j.jcv.2025.105880
 - title: Design of nanobody targeting SARS-CoV-2 spike glycoprotein using CDR-grafting
     assisted by molecular simulation and machine learning
   authors:
@@ -49,13 +80,6 @@
   year: 2025
   doi: 10.1021/acs.jcim.4c01641
   url: http://dx.doi.org/10.1021/acs.jcim.4c01641
-- title: Human outbreaks of a novel reassortant Oropouche virus in the Brazilian Amazon region
-  authors:
-  - Naveca FG, Almeida TAP, Souza V, Nascimento V, Silva D, Nascimento F, Mejía M, Oliveira YS, Rocha L, Xavier N, Lopes J, Maito R, Meneses C, Amorim T, Fé L, Camelo FS, Silva SCA, Melo AX, Fernandes LG, Oliveira MAA, Arcanjo AR, Araújo G, André Júnior W, Carvalho RLC, Rodrigues R, Albuquerque S, Mattos C, Silva C, Linhares A, Rodrigues T, Mariscal F, Morais MA, Presibella MM, Marques NFQ, Paiva A, Ribeiro K, Vieira D, Queiroz JADS, Passos-Silva AM, Abdalla L, Santos JH, Figueiredo RMP, Cruz ACR, Casseb LN, Chiang JO, Frutuoso LV, Rossi A, Freitas L, Campos TL, Wallau GL, Moreira E, Lins Neto RD, Alexander LW, Sun Y, Filippis AMB, Gräf T, Arantes I, Bento AI, Delatorre E, Bello G.
-  journal: Nature Medicine
-  year: 2024
-  doi: 10.1038/s41591-024-03300-3
-  url: https://doi.org/10.1038/s41591-024-03300-3
 - title: 'Structure‐based computational design of antibody mimetics: challenges and
     perspectives'
   authors:
@@ -67,9 +91,16 @@
   - Nascimento‐Filho, Manassés J.
   - Lins, Roberto D.
   journal: FEBS Open Bio
-  year: 2024
+  year: 2025
   doi: 10.1002/2211-5463.13855
   url: http://dx.doi.org/10.1002/2211-5463.13855
+- title: Human outbreaks of a novel reassortant Oropouche virus in the Brazilian Amazon region
+  authors:
+  - Naveca FG, Almeida TAP, Souza V, Nascimento V, Silva D, Nascimento F, Mejía M, Oliveira YS, Rocha L, Xavier N, Lopes J, Maito R, Meneses C, Amorim T, Fé L, Camelo FS, Silva SCA, Melo AX, Fernandes LG, Oliveira MAA, Arcanjo AR, Araújo G, André Júnior W, Carvalho RLC, Rodrigues R, Albuquerque S, Mattos C, Silva C, Linhares A, Rodrigues T, Mariscal F, Morais MA, Presibella MM, Marques NFQ, Paiva A, Ribeiro K, Vieira D, Queiroz JADS, Passos-Silva AM, Abdalla L, Santos JH, Figueiredo RMP, Cruz ACR, Casseb LN, Chiang JO, Frutuoso LV, Rossi A, Freitas L, Campos TL, Wallau GL, Moreira E, Lins Neto RD, Alexander LW, Sun Y, Filippis AMB, Gräf T, Arantes I, Bento AI, Delatorre E, Bello G.
+  journal: Nature Medicine
+  year: 2024
+  doi: 10.1038/s41591-024-03300-3
+  url: https://doi.org/10.1038/s41591-024-03300-3
 - title: Evolutionary deletions within the SARS-CoV-2 genome as signature trends for
     virus fitness and adaptation
   authors:
