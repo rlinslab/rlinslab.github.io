@@ -27,24 +27,24 @@ permalink: /members/
 
 ## PhD Students
 
-Julio Simoes  
-Milena Oliveira  
-Tayna Lima  
-Licya Xavier  
-Bruno Leite  
-Daniel Brandao
+Julio Simoes - UFPE
+Milena Oliveira - Fiocruz  
+Tayna Lima - Fiocruz
+Licya Xavier - Fiocruz
+Bruno Leite - Fiocruz
+Daniel Brandao - Fiocruz
+Joao Costa - ITQB, NOVA
+Maria Rita Albuquerque - UFPE
 
 ## Master's Students
 
-Michelly Lopes  
-Whendel Santos  
-Marilia Silva  
-Manasses Nascimento Filho  
-Rita Albuquerque
+Michelly Lopes - Fiocruz
+Whendel Santos - UFPE
+Marilia Silva - UFPE  
 
 ## Visiting Undergraduate Students
 
-Felipe Labio
+Felipe Labio - UFPE
 
 ## Alumini (recent)
 
@@ -60,12 +60,12 @@ Antonio Fernando da Purificação Júnior, Lecturer at Santa Marcelina (Brazil)
 Catarina Cataldi, Master's student at University of Toronto (Canada)  
 Laercio Pol-Fachin, Professor at Centro Universitário CESMAC (Brazil)  
 Eduardo Franca, Professor at UFU (Brazil)  
-Osmair Oliveira, Professor at IFSP (Brazil)  
-  
+Osmair Oliveira, Professor at IFSP (Brazil)
+Manasses Nascimento (Teacher of Chemistry, Bahia State Educational Secretary)  
+
 Joao Sartori, PhD student at IOC, Fiocruz (Brazil)  
 Andresa Messias, PhD student at University of Buenos Aires (Argentina)  
 Emmanuel Mhrous, undergraduate student in Computer Science at Princeton University (USA)  
 Victor Calebe, Master's student at ILMD, Fiocruz (Brazil)  
   
-
 
