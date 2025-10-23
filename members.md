@@ -61,7 +61,7 @@ Catarina Cataldi, Master's student at University of Toronto (Canada)
 Laercio Pol-Fachin, Professor at Centro Universitário CESMAC (Brazil)  
 Eduardo Franca, Professor at UFU (Brazil)  
 Osmair Oliveira, Professor at IFSP (Brazil)  
-Manasses Nascimento (Teacher of Chemistry, Bahia State Educational Secretary)  
+Manasses Nascimento (Teacher of Chemistry, Bahia State Education Secretary)  
 
 Joao Sartori, PhD student at IOC, Fiocruz (Brazil)  
 Andresa Messias, PhD student at University of Buenos Aires (Argentina)  
