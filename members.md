@@ -27,24 +27,24 @@ permalink: /members/
 
 ## PhD Students
 
-Julio Simoes - UFPE
-Milena Oliveira - Fiocruz  
-Tayna Lima - Fiocruz
-Licya Xavier - Fiocruz
-Bruno Leite - Fiocruz
-Daniel Brandao - Fiocruz
-Joao Costa - ITQB, NOVA
-Maria Rita Albuquerque - UFPE
+Julio Simoes - UFPE  
+Milena Oliveira - Fiocruz    
+Tayna Lima - Fiocruz  
+Licya Xavier - Fiocruz  
+Bruno Leite - Fiocruz  
+Daniel Brandao - Fiocruz  
+Joao Costa - ITQB, NOVA  
+Maria Rita Albuquerque - UFPE  
 
 ## Master's Students
 
-Michelly Lopes - Fiocruz
-Whendel Santos - UFPE
-Marilia Silva - UFPE  
+Michelly Lopes - Fiocruz 
+Whendel Santos - UFPE  
+Marilia Silva - UFPE    
 
 ## Visiting Undergraduate Students
 
-Felipe Labio - UFPE
+Felipe Labio - UFPE  
 
 ## Alumini (recent)
 
