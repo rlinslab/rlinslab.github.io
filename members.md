@@ -42,7 +42,7 @@ Michelly Lopes - Fiocruz
 Whendel Santos - UFPE  
 Marilia Silva - UFPE    
 
-## Visiting Undergraduate Students
+## Undergraduate Students
 
 Felipe Labio - UFPE  
 
