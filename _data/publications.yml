@@ -1,3 +1,10 @@
+<div style="position: relative; z-index: 1; padding: 2rem; text-align: center;">
+
+  <img src="/assets/images/wordcloud.png" alt="Publication Word Cloud" 
+       style="max-width: 400px; width: 100%; height: auto; margin-bottom: 1.5rem;">
+  </p>
+</div>
+
 - title: Ambecovirus, a novel Betacoronavirus subgenus circulating in neotropical bats sheds new light on bat-borne coronaviruses evolution
   authors:
   - Wallau, G.L.
